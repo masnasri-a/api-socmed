@@ -1,0 +1,3259 @@
+[
+  {
+    "_index": "social_media_posts",
+    "_id": "youtube_COseDS3xmjc",
+    "_score": 1.0,
+    "_source": {
+      "platform": "youtube",
+      "platform_id": "COseDS3xmjc",
+      "content": "Sufmi Dasco Datangi Kediaman Presiden Prabowo, Bawa Laporan Daerah - [Top News] MetroTV, Presiden Prabowo Subianto menerima Wakil Ketua DPR RI, Sufmi Dasco Ahmad, di kediamannya di Hambalang.",
+      "title": "Sufmi Dasco Datangi Kediaman Presiden Prabowo, Bawa Laporan Daerah - [Top News]",
+      "description": "MetroTV, Presiden Prabowo Subianto menerima Wakil Ketua DPR RI, Sufmi Dasco Ahmad, di kediamannya di Hambalang.",
+      "author": {
+        "id": "UCzl0OrB3-ehunyotIQvK77A",
+        "title": "METRO TV ",
+        "username": "metrotvnews",
+        "profile_image_url": "https://yt3.ggpht.com/qX0Or-6wqAYGXEPiWV6ELZmJGRm2JtOIYYd2r54UQqaDKFlBeezvfgT_b6SB3JZTS16RjANs=s68-c-k-c0x00ffffff-no-rj",
+        "badges": [
+          {
+            "text": "Verified",
+            "type": "VERIFIED_CHANNEL"
+          }
+        ],
+        "is_verified": true
+      },
+      "timestamp": "2025-11-24T11:17:13.666613",
+      "published_time_text": "1 day ago",
+      "url": "https://www.youtube.com/watch?v=COseDS3xmjc",
+      "metrics": {
+        "view_count": 12286,
+        "like_count": 0,
+        "comment_count": 0,
+        "share_count": 0
+      },
+      "duration_seconds": 58,
+      "duration_formatted": "00:58",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/COseDS3xmjc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDoSdRGjypFqVlv3rV3m0wTIzFgUA",
+          "width": 360,
+          "height": 202
+        },
+        {
+          "url": "https://i.ytimg.com/vi/COseDS3xmjc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA-vIMHuvVfglOJlWoLtvOO8hgiNA",
+          "width": 720,
+          "height": 404
+        }
+      ],
+      "moving_thumbnails": [
+        {
+          "height": 180,
+          "url": "https://i.ytimg.com/an_webp/COseDS3xmjc/mqdefault_6s.webp?du=3000&sqp=CM-xjckG&rs=AOn4CLBkMONVzCR08PQDQCWrl5ZU90c9pA",
+          "width": 320
+        }
+      ],
+      "badges": [
+        "New"
+      ],
+      "is_live": false,
+      "hashtags": [],
+      "mentions": [],
+      "sentiment": "neutral",
+      "emotions": [],
+      "category": "news",
+      "language": "en",
+      "content_type": "video",
+      "analyzed_at": "2025-11-24T11:17:13.666648",
+      "raw_data": {
+        "author": {
+          "avatar": [
+            {
+              "height": 68,
+              "url": "https://yt3.ggpht.com/qX0Or-6wqAYGXEPiWV6ELZmJGRm2JtOIYYd2r54UQqaDKFlBeezvfgT_b6SB3JZTS16RjANs=s68-c-k-c0x00ffffff-no-rj",
+              "width": 68
+            }
+          ],
+          "badges": [
+            {
+              "text": "Verified",
+              "type": "VERIFIED_CHANNEL"
+            }
+          ],
+          "canonicalBaseUrl": "/@metrotvnews",
+          "channelId": "UCzl0OrB3-ehunyotIQvK77A",
+          "title": "METRO TV "
+        },
+        "badges": [
+          "New"
+        ],
+        "descriptionSnippet": "MetroTV, Presiden Prabowo Subianto menerima Wakil Ketua DPR RI, Sufmi Dasco Ahmad, di kediamannya di Hambalang.",
+        "isLiveNow": false,
+        "lengthSeconds": 58,
+        "movingThumbnails": [
+          {
+            "height": 180,
+            "url": "https://i.ytimg.com/an_webp/COseDS3xmjc/mqdefault_6s.webp?du=3000&sqp=CM-xjckG&rs=AOn4CLBkMONVzCR08PQDQCWrl5ZU90c9pA",
+            "width": 320
+          }
+        ],
+        "publishedTimeText": "1 day ago",
+        "stats": {
+          "views": 12286
+        },
+        "thumbnails": [
+          {
+            "height": 202,
+            "url": "https://i.ytimg.com/vi/COseDS3xmjc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDoSdRGjypFqVlv3rV3m0wTIzFgUA",
+            "width": 360
+          },
+          {
+            "height": 404,
+            "url": "https://i.ytimg.com/vi/COseDS3xmjc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA-vIMHuvVfglOJlWoLtvOO8hgiNA",
+            "width": 720
+          }
+        ],
+        "title": "Sufmi Dasco Datangi Kediaman Presiden Prabowo, Bawa Laporan Daerah - [Top News]",
+        "videoId": "COseDS3xmjc"
+      }
+    }
+  },
+  {
+    "_index": "social_media_posts",
+    "_id": "youtube_bdVSf_iMpnQ",
+    "_score": 1.0,
+    "_source": {
+      "platform": "youtube",
+      "platform_id": "bdVSf_iMpnQ",
+      "content": "Bantuan Becak Listrik Prabowo Untuk Tukang Becak Lansia Presiden Prabowo Subianto memberikan bantuan 2.000 unit becak listrik untuk tukang becak lanjut usia di Pulau Jawa. Bantuan ...",
+      "title": "Bantuan Becak Listrik Prabowo Untuk Tukang Becak Lansia",
+      "description": "Presiden Prabowo Subianto memberikan bantuan 2.000 unit becak listrik untuk tukang becak lanjut usia di Pulau Jawa. Bantuan ...",
+      "author": {
+        "id": "UCKII0Ml9S5wneKbHswmUrIQ",
+        "title": "CNN Indonesia",
+        "username": "CNNIDOFFICIAL",
+        "profile_image_url": "https://yt3.ggpht.com/2VFfT-mhe2qrdSoDncnXfwv3sJCBgBkYN2bRnOY8BirGvmqsiao7MXvAO8X9qO_bc-KQYOdl=s68-c-k-c0x00ffffff-no-rj",
+        "badges": [
+          {
+            "text": "Verified",
+            "type": "VERIFIED_CHANNEL"
+          }
+        ],
+        "is_verified": true
+      },
+      "timestamp": "2025-11-24T11:17:13.666660",
+      "published_time_text": "2 days ago",
+      "url": "https://www.youtube.com/watch?v=bdVSf_iMpnQ",
+      "metrics": {
+        "view_count": 39604,
+        "like_count": 0,
+        "comment_count": 0,
+        "share_count": 0
+      },
+      "duration_seconds": 197,
+      "duration_formatted": "03:17",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/bdVSf_iMpnQ/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC3ZhT7gVAgTG1O4zrybnf3c6QDDw",
+          "width": 480,
+          "height": 270
+        }
+      ],
+      "moving_thumbnails": [
+        {
+          "height": 180,
+          "url": "https://i.ytimg.com/an_webp/bdVSf_iMpnQ/mqdefault_6s.webp?du=3000&sqp=CNjPjckG&rs=AOn4CLC91dxdVVlAg1MPdsOqEqqQAB78DA",
+          "width": 320
+        }
+      ],
+      "badges": [
+        "New"
+      ],
+      "is_live": false,
+      "hashtags": [],
+      "mentions": [],
+      "sentiment": "neutral",
+      "emotions": [],
+      "category": "general",
+      "language": "en",
+      "content_type": "video",
+      "analyzed_at": "2025-11-24T11:17:13.666697",
+      "raw_data": {
+        "author": {
+          "avatar": [
+            {
+              "height": 68,
+              "url": "https://yt3.ggpht.com/2VFfT-mhe2qrdSoDncnXfwv3sJCBgBkYN2bRnOY8BirGvmqsiao7MXvAO8X9qO_bc-KQYOdl=s68-c-k-c0x00ffffff-no-rj",
+              "width": 68
+            }
+          ],
+          "badges": [
+            {
+              "text": "Verified",
+              "type": "VERIFIED_CHANNEL"
+            }
+          ],
+          "canonicalBaseUrl": "/@CNNIDOFFICIAL",
+          "channelId": "UCKII0Ml9S5wneKbHswmUrIQ",
+          "title": "CNN Indonesia"
+        },
+        "badges": [
+          "New"
+        ],
+        "descriptionSnippet": "Presiden Prabowo Subianto memberikan bantuan 2.000 unit becak listrik untuk tukang becak lanjut usia di Pulau Jawa. Bantuan ...",
+        "isLiveNow": false,
+        "lengthSeconds": 197,
+        "movingThumbnails": [
+          {
+            "height": 180,
+            "url": "https://i.ytimg.com/an_webp/bdVSf_iMpnQ/mqdefault_6s.webp?du=3000&sqp=CNjPjckG&rs=AOn4CLC91dxdVVlAg1MPdsOqEqqQAB78DA",
+            "width": 320
+          }
+        ],
+        "publishedTimeText": "2 days ago",
+        "stats": {
+          "views": 39604
+        },
+        "thumbnails": [
+          {
+            "height": 270,
+            "url": "https://i.ytimg.com/vi/bdVSf_iMpnQ/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC3ZhT7gVAgTG1O4zrybnf3c6QDDw",
+            "width": 480
+          }
+        ],
+        "title": "Bantuan Becak Listrik Prabowo Untuk Tukang Becak Lansia",
+        "videoId": "bdVSf_iMpnQ"
+      }
+    }
+  },
+  {
+    "_index": "social_media_posts",
+    "_id": "youtube_6MVo0B98zzc",
+    "_score": 1.0,
+    "_source": {
+      "platform": "youtube",
+      "platform_id": "6MVo0B98zzc",
+      "content": "Presiden Prabowo dan PM Keir Starmer Gelar Pertemuan Virtual, Bahas Kemitraan Strategis prabowo #indonesia.",
+      "title": "Presiden Prabowo dan PM Keir Starmer Gelar Pertemuan Virtual, Bahas Kemitraan Strategis",
+      "description": "prabowo #indonesia.",
+      "author": {
+        "id": "UCOhcvIMiRI4KVfJWPkBwlBg",
+        "title": "Prabowo Subianto",
+        "username": "djojohadikusumo",
+        "profile_image_url": "https://yt3.ggpht.com/OptVhVGLahUfZ5FI0ZfNi_XsMv-RO8XI1XbZf7Cpk3rbvfvme1oFm7IcoBMro_raHBXGzcE1dw=s68-c-k-c0x00ffffff-no-rj",
+        "badges": [
+          {
+            "text": "Verified",
+            "type": "VERIFIED_CHANNEL"
+          }
+        ],
+        "is_verified": true
+      },
+      "timestamp": "2025-11-24T11:17:13.666704",
+      "published_time_text": "1 day ago",
+      "url": "https://www.youtube.com/watch?v=6MVo0B98zzc",
+      "metrics": {
+        "view_count": 3334,
+        "like_count": 0,
+        "comment_count": 0,
+        "share_count": 0
+      },
+      "duration_seconds": 48,
+      "duration_formatted": "00:48",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/6MVo0B98zzc/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhyIE4oPzAP&rs=AOn4CLBWIhL_E08JSKHJZY6tuuYUARf-_Q",
+          "width": 360,
+          "height": 202
+        },
+        {
+          "url": "https://i.ytimg.com/vi/6MVo0B98zzc/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhyIE4oPzAP&rs=AOn4CLA3fNbp--MRnzFrAtzwklZonlamjA",
+          "width": 720,
+          "height": 404
+        }
+      ],
+      "moving_thumbnails": null,
+      "badges": [
+        "New"
+      ],
+      "is_live": false,
+      "hashtags": [
+        "indonesia"
+      ],
+      "mentions": [],
+      "sentiment": "neutral",
+      "emotions": [],
+      "category": "general",
+      "language": "en",
+      "content_type": "video",
+      "analyzed_at": "2025-11-24T11:17:13.666732",
+      "raw_data": {
+        "author": {
+          "avatar": [
+            {
+              "height": 68,
+              "url": "https://yt3.ggpht.com/OptVhVGLahUfZ5FI0ZfNi_XsMv-RO8XI1XbZf7Cpk3rbvfvme1oFm7IcoBMro_raHBXGzcE1dw=s68-c-k-c0x00ffffff-no-rj",
+              "width": 68
+            }
+          ],
+          "badges": [
+            {
+              "text": "Verified",
+              "type": "VERIFIED_CHANNEL"
+            }
+          ],
+          "canonicalBaseUrl": "/@djojohadikusumo",
+          "channelId": "UCOhcvIMiRI4KVfJWPkBwlBg",
+          "title": "Prabowo Subianto"
+        },
+        "badges": [
+          "New"
+        ],
+        "descriptionSnippet": "prabowo #indonesia.",
+        "isLiveNow": false,
+        "lengthSeconds": 48,
+        "movingThumbnails": null,
+        "publishedTimeText": "1 day ago",
+        "stats": {
+          "views": 3334
+        },
+        "thumbnails": [
+          {
+            "height": 202,
+            "url": "https://i.ytimg.com/vi/6MVo0B98zzc/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhyIE4oPzAP&rs=AOn4CLBWIhL_E08JSKHJZY6tuuYUARf-_Q",
+            "width": 360
+          },
+          {
+            "height": 404,
+            "url": "https://i.ytimg.com/vi/6MVo0B98zzc/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhyIE4oPzAP&rs=AOn4CLA3fNbp--MRnzFrAtzwklZonlamjA",
+            "width": 720
+          }
+        ],
+        "title": "Presiden Prabowo dan PM Keir Starmer Gelar Pertemuan Virtual, Bahas Kemitraan Strategis",
+        "videoId": "6MVo0B98zzc"
+      }
+    }
+  },
+  {
+    "_index": "social_media_posts",
+    "_id": "youtube_b9tcCaYfuFE",
+    "_score": 1.0,
+    "_source": {
+      "platform": "youtube",
+      "platform_id": "b9tcCaYfuFE",
+      "content": "Presiden Prabowo Resmikan Sejumlah Infrastruktur di DIY dan Jawa Tengah : \"Saya Titip Agar Dirawat\" #prabowosubianto  #prabowo #indonesia",
+      "title": "Presiden Prabowo Resmikan Sejumlah Infrastruktur di DIY dan Jawa Tengah : \"Saya Titip Agar Dirawat\"",
+      "description": "#prabowosubianto  #prabowo #indonesia",
+      "author": {
+        "id": "UCOhcvIMiRI4KVfJWPkBwlBg",
+        "title": "Prabowo Subianto",
+        "username": "djojohadikusumo",
+        "profile_image_url": "https://yt3.ggpht.com/OptVhVGLahUfZ5FI0ZfNi_XsMv-RO8XI1XbZf7Cpk3rbvfvme1oFm7IcoBMro_raHBXGzcE1dw=s68-c-k-c0x00ffffff-no-rj",
+        "badges": [
+          {
+            "text": "Verified",
+            "type": "VERIFIED_CHANNEL"
+          }
+        ],
+        "is_verified": true
+      },
+      "timestamp": "2025-11-24T11:17:13.666737",
+      "published_time_text": "4 days ago",
+      "url": "https://www.youtube.com/watch?v=b9tcCaYfuFE",
+      "metrics": {
+        "view_count": 3208,
+        "like_count": 0,
+        "comment_count": 0,
+        "share_count": 0
+      },
+      "duration_seconds": 201,
+      "duration_formatted": "03:21",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/b9tcCaYfuFE/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhZIFsoZTAP&rs=AOn4CLCi-P-LjNtLgqcsMRdjRBFOVVbA_w",
+          "width": 360,
+          "height": 202
+        },
+        {
+          "url": "https://i.ytimg.com/vi/b9tcCaYfuFE/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhZIFsoZTAP&rs=AOn4CLAapDTN-tmwNpj8UOA1g97-JQb-yA",
+          "width": 720,
+          "height": 404
+        }
+      ],
+      "moving_thumbnails": [
+        {
+          "height": 180,
+          "url": "https://i.ytimg.com/an_webp/b9tcCaYfuFE/mqdefault_6s.webp?du=3000&sqp=CP3NjckG&rs=AOn4CLD6gowoMfoyOJH7IpMqlI-y0LxICA",
+          "width": 320
+        }
+      ],
+      "badges": [
+        "Indonesian (automatic)",
+        "New"
+      ],
+      "is_live": false,
+      "hashtags": [
+        "prabowosubianto",
+        "prabowo",
+        "indonesia"
+      ],
+      "mentions": [],
+      "sentiment": "neutral",
+      "emotions": [],
+      "category": "diy",
+      "language": "en",
+      "content_type": "video",
+      "analyzed_at": "2025-11-24T11:17:13.666766",
+      "raw_data": {
+        "author": {
+          "avatar": [
+            {
+              "height": 68,
+              "url": "https://yt3.ggpht.com/OptVhVGLahUfZ5FI0ZfNi_XsMv-RO8XI1XbZf7Cpk3rbvfvme1oFm7IcoBMro_raHBXGzcE1dw=s68-c-k-c0x00ffffff-no-rj",
+              "width": 68
+            }
+          ],
+          "badges": [
+            {
+              "text": "Verified",
+              "type": "VERIFIED_CHANNEL"
+            }
+          ],
+          "canonicalBaseUrl": "/@djojohadikusumo",
+          "channelId": "UCOhcvIMiRI4KVfJWPkBwlBg",
+          "title": "Prabowo Subianto"
+        },
+        "badges": [
+          "Indonesian (automatic)",
+          "New"
+        ],
+        "descriptionSnippet": "#prabowosubianto  #prabowo #indonesia",
+        "isLiveNow": false,
+        "lengthSeconds": 201,
+        "movingThumbnails": [
+          {
+            "height": 180,
+            "url": "https://i.ytimg.com/an_webp/b9tcCaYfuFE/mqdefault_6s.webp?du=3000&sqp=CP3NjckG&rs=AOn4CLD6gowoMfoyOJH7IpMqlI-y0LxICA",
+            "width": 320
+          }
+        ],
+        "publishedTimeText": "4 days ago",
+        "stats": {
+          "views": 3208
+        },
+        "thumbnails": [
+          {
+            "height": 202,
+            "url": "https://i.ytimg.com/vi/b9tcCaYfuFE/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhZIFsoZTAP&rs=AOn4CLCi-P-LjNtLgqcsMRdjRBFOVVbA_w",
+            "width": 360
+          },
+          {
+            "height": 404,
+            "url": "https://i.ytimg.com/vi/b9tcCaYfuFE/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhZIFsoZTAP&rs=AOn4CLAapDTN-tmwNpj8UOA1g97-JQb-yA",
+            "width": 720
+          }
+        ],
+        "title": "Presiden Prabowo Resmikan Sejumlah Infrastruktur di DIY dan Jawa Tengah : \"Saya Titip Agar Dirawat\"",
+        "videoId": "b9tcCaYfuFE"
+      }
+    }
+  },
+  {
+    "_index": "social_media_posts",
+    "_id": "youtube_4p0YYCTTdzY",
+    "_score": 1.0,
+    "_source": {
+      "platform": "youtube",
+      "platform_id": "4p0YYCTTdzY",
+      "content": "Pianis Cilik Usia 10 Tahun Curi Perhatian Presiden Prabowo Saat Peresmian RS di Solo #Prabowo #indonesia",
+      "title": "Pianis Cilik Usia 10 Tahun Curi Perhatian Presiden Prabowo Saat Peresmian RS di Solo",
+      "description": "#Prabowo #indonesia",
+      "author": {
+        "id": "UCOhcvIMiRI4KVfJWPkBwlBg",
+        "title": "Prabowo Subianto",
+        "username": "djojohadikusumo",
+        "profile_image_url": "https://yt3.ggpht.com/OptVhVGLahUfZ5FI0ZfNi_XsMv-RO8XI1XbZf7Cpk3rbvfvme1oFm7IcoBMro_raHBXGzcE1dw=s68-c-k-c0x00ffffff-no-rj",
+        "badges": [
+          {
+            "text": "Verified",
+            "type": "VERIFIED_CHANNEL"
+          }
+        ],
+        "is_verified": true
+      },
+      "timestamp": "2025-11-24T11:17:13.666770",
+      "published_time_text": "4 days ago",
+      "url": "https://www.youtube.com/watch?v=4p0YYCTTdzY",
+      "metrics": {
+        "view_count": 4463,
+        "like_count": 0,
+        "comment_count": 0,
+        "share_count": 0
+      },
+      "duration_seconds": 156,
+      "duration_formatted": "02:36",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/4p0YYCTTdzY/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIFcoTTAP&rs=AOn4CLCpDAtzfxKh7P_6TfcjCRqppBh6xA",
+          "width": 360,
+          "height": 202
+        },
+        {
+          "url": "https://i.ytimg.com/vi/4p0YYCTTdzY/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIFcoTTAP&rs=AOn4CLC-X2l6GaIEU7ARP_xkW0YI0nm6VA",
+          "width": 720,
+          "height": 404
+        }
+      ],
+      "moving_thumbnails": [
+        {
+          "height": 180,
+          "url": "https://i.ytimg.com/an_webp/4p0YYCTTdzY/mqdefault_6s.webp?du=3000&sqp=CNayjckG&rs=AOn4CLDASeJ4Kn5sHrIEf9UssnhVqtr_pw",
+          "width": 320
+        }
+      ],
+      "badges": [
+        "Indonesian (automatic)",
+        "New"
+      ],
+      "is_live": false,
+      "hashtags": [
+        "Prabowo",
+        "indonesia"
+      ],
+      "mentions": [],
+      "sentiment": "neutral",
+      "emotions": [],
+      "category": "general",
+      "language": "en",
+      "content_type": "video",
+      "analyzed_at": "2025-11-24T11:17:13.666797",
+      "raw_data": {
+        "author": {
+          "avatar": [
+            {
+              "height": 68,
+              "url": "https://yt3.ggpht.com/OptVhVGLahUfZ5FI0ZfNi_XsMv-RO8XI1XbZf7Cpk3rbvfvme1oFm7IcoBMro_raHBXGzcE1dw=s68-c-k-c0x00ffffff-no-rj",
+              "width": 68
+            }
+          ],
+          "badges": [
+            {
+              "text": "Verified",
+              "type": "VERIFIED_CHANNEL"
+            }
+          ],
+          "canonicalBaseUrl": "/@djojohadikusumo",
+          "channelId": "UCOhcvIMiRI4KVfJWPkBwlBg",
+          "title": "Prabowo Subianto"
+        },
+        "badges": [
+          "Indonesian (automatic)",
+          "New"
+        ],
+        "descriptionSnippet": "#Prabowo #indonesia",
+        "isLiveNow": false,
+        "lengthSeconds": 156,
+        "movingThumbnails": [
+          {
+            "height": 180,
+            "url": "https://i.ytimg.com/an_webp/4p0YYCTTdzY/mqdefault_6s.webp?du=3000&sqp=CNayjckG&rs=AOn4CLDASeJ4Kn5sHrIEf9UssnhVqtr_pw",
+            "width": 320
+          }
+        ],
+        "publishedTimeText": "4 days ago",
+        "stats": {
+          "views": 4463
+        },
+        "thumbnails": [
+          {
+            "height": 202,
+            "url": "https://i.ytimg.com/vi/4p0YYCTTdzY/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIFcoTTAP&rs=AOn4CLCpDAtzfxKh7P_6TfcjCRqppBh6xA",
+            "width": 360
+          },
+          {
+            "height": 404,
+            "url": "https://i.ytimg.com/vi/4p0YYCTTdzY/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIFcoTTAP&rs=AOn4CLC-X2l6GaIEU7ARP_xkW0YI0nm6VA",
+            "width": 720
+          }
+        ],
+        "title": "Pianis Cilik Usia 10 Tahun Curi Perhatian Presiden Prabowo Saat Peresmian RS di Solo",
+        "videoId": "4p0YYCTTdzY"
+      }
+    }
+  },
+  {
+    "_index": "social_media_posts",
+    "_id": "youtube_La5d_XHqP2k",
+    "_score": 1.0,
+    "_source": {
+      "platform": "youtube",
+      "platform_id": "La5d_XHqP2k",
+      "content": "Presiden Prabowo Pendidikan Dokter, Perawat, Paramedis Akan Dibiayai Negara, Beasiswa Penuh! #Prabowo #PrabowoPresiden2024",
+      "title": "Presiden Prabowo Pendidikan Dokter, Perawat, Paramedis Akan Dibiayai Negara, Beasiswa Penuh!",
+      "description": "#Prabowo #PrabowoPresiden2024",
+      "author": {
+        "id": "UCOhcvIMiRI4KVfJWPkBwlBg",
+        "title": "Prabowo Subianto",
+        "username": "djojohadikusumo",
+        "profile_image_url": "https://yt3.ggpht.com/OptVhVGLahUfZ5FI0ZfNi_XsMv-RO8XI1XbZf7Cpk3rbvfvme1oFm7IcoBMro_raHBXGzcE1dw=s68-c-k-c0x00ffffff-no-rj",
+        "badges": [
+          {
+            "text": "Verified",
+            "type": "VERIFIED_CHANNEL"
+          }
+        ],
+        "is_verified": true
+      },
+      "timestamp": "2025-11-24T11:17:13.666801",
+      "published_time_text": "4 days ago",
+      "url": "https://www.youtube.com/watch?v=La5d_XHqP2k",
+      "metrics": {
+        "view_count": 5276,
+        "like_count": 0,
+        "comment_count": 0,
+        "share_count": 0
+      },
+      "duration_seconds": 84,
+      "duration_formatted": "01:24",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/La5d_XHqP2k/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhyIFwoQDAP&rs=AOn4CLARDp70SsvOaoBJV5ZIWDODtoa_Qw",
+          "width": 360,
+          "height": 202
+        },
+        {
+          "url": "https://i.ytimg.com/vi/La5d_XHqP2k/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhyIFwoQDAP&rs=AOn4CLDt5CmnCFG7TlDiLS-jwuhisRgJxw",
+          "width": 720,
+          "height": 404
+        }
+      ],
+      "moving_thumbnails": [
+        {
+          "height": 180,
+          "url": "https://i.ytimg.com/an_webp/La5d_XHqP2k/mqdefault_6s.webp?du=3000&sqp=CKqhjckG&rs=AOn4CLBGKOmYtqIe09T9QRvJzBLblgNbmQ",
+          "width": 320
+        }
+      ],
+      "badges": [
+        "New"
+      ],
+      "is_live": false,
+      "hashtags": [
+        "Prabowo",
+        "PrabowoPresiden2024"
+      ],
+      "mentions": [],
+      "sentiment": "neutral",
+      "emotions": [],
+      "category": "general",
+      "language": "en",
+      "content_type": "video",
+      "analyzed_at": "2025-11-24T11:17:13.666828",
+      "raw_data": {
+        "author": {
+          "avatar": [
+            {
+              "height": 68,
+              "url": "https://yt3.ggpht.com/OptVhVGLahUfZ5FI0ZfNi_XsMv-RO8XI1XbZf7Cpk3rbvfvme1oFm7IcoBMro_raHBXGzcE1dw=s68-c-k-c0x00ffffff-no-rj",
+              "width": 68
+            }
+          ],
+          "badges": [
+            {
+              "text": "Verified",
+              "type": "VERIFIED_CHANNEL"
+            }
+          ],
+          "canonicalBaseUrl": "/@djojohadikusumo",
+          "channelId": "UCOhcvIMiRI4KVfJWPkBwlBg",
+          "title": "Prabowo Subianto"
+        },
+        "badges": [
+          "New"
+        ],
+        "descriptionSnippet": "#Prabowo #PrabowoPresiden2024",
+        "isLiveNow": false,
+        "lengthSeconds": 84,
+        "movingThumbnails": [
+          {
+            "height": 180,
+            "url": "https://i.ytimg.com/an_webp/La5d_XHqP2k/mqdefault_6s.webp?du=3000&sqp=CKqhjckG&rs=AOn4CLBGKOmYtqIe09T9QRvJzBLblgNbmQ",
+            "width": 320
+          }
+        ],
+        "publishedTimeText": "4 days ago",
+        "stats": {
+          "views": 5276
+        },
+        "thumbnails": [
+          {
+            "height": 202,
+            "url": "https://i.ytimg.com/vi/La5d_XHqP2k/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhyIFwoQDAP&rs=AOn4CLARDp70SsvOaoBJV5ZIWDODtoa_Qw",
+            "width": 360
+          },
+          {
+            "height": 404,
+            "url": "https://i.ytimg.com/vi/La5d_XHqP2k/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhyIFwoQDAP&rs=AOn4CLDt5CmnCFG7TlDiLS-jwuhisRgJxw",
+            "width": 720
+          }
+        ],
+        "title": "Presiden Prabowo Pendidikan Dokter, Perawat, Paramedis Akan Dibiayai Negara, Beasiswa Penuh!",
+        "videoId": "La5d_XHqP2k"
+      }
+    }
+  },
+  {
+    "_index": "social_media_posts",
+    "_id": "youtube_VGJLGsGg4pI",
+    "_score": 1.0,
+    "_source": {
+      "platform": "youtube",
+      "platform_id": "VGJLGsGg4pI",
+      "content": "Presiden Prabowo : Indonesia Akan Bangun 66 RS Baru #Prabowo #PrabowoPresiden2024",
+      "title": "Presiden Prabowo : Indonesia Akan Bangun 66 RS Baru",
+      "description": "#Prabowo #PrabowoPresiden2024",
+      "author": {
+        "id": "UCOhcvIMiRI4KVfJWPkBwlBg",
+        "title": "Prabowo Subianto",
+        "username": "djojohadikusumo",
+        "profile_image_url": "https://yt3.ggpht.com/OptVhVGLahUfZ5FI0ZfNi_XsMv-RO8XI1XbZf7Cpk3rbvfvme1oFm7IcoBMro_raHBXGzcE1dw=s68-c-k-c0x00ffffff-no-rj",
+        "badges": [
+          {
+            "text": "Verified",
+            "type": "VERIFIED_CHANNEL"
+          }
+        ],
+        "is_verified": true
+      },
+      "timestamp": "2025-11-24T11:17:13.666832",
+      "published_time_text": "4 days ago",
+      "url": "https://www.youtube.com/watch?v=VGJLGsGg4pI",
+      "metrics": {
+        "view_count": 3408,
+        "like_count": 0,
+        "comment_count": 0,
+        "share_count": 0
+      },
+      "duration_seconds": 166,
+      "duration_formatted": "02:46",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/VGJLGsGg4pI/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhyIF4oQjAP&rs=AOn4CLDg85eIzlZLZvYqvC8xUuXakRQtAQ",
+          "width": 360,
+          "height": 202
+        },
+        {
+          "url": "https://i.ytimg.com/vi/VGJLGsGg4pI/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhyIF4oQjAP&rs=AOn4CLB8SgdMUFINayJubhDKm-mf6lKtHw",
+          "width": 720,
+          "height": 404
+        }
+      ],
+      "moving_thumbnails": [
+        {
+          "height": 180,
+          "url": "https://i.ytimg.com/an_webp/VGJLGsGg4pI/mqdefault_6s.webp?du=3000&sqp=CPjQjckG&rs=AOn4CLBiNLnvGGHXb_hLLej_x8I27v_jJA",
+          "width": 320
+        }
+      ],
+      "badges": [
+        "Indonesian (automatic)",
+        "New"
+      ],
+      "is_live": false,
+      "hashtags": [
+        "Prabowo",
+        "PrabowoPresiden2024"
+      ],
+      "mentions": [],
+      "sentiment": "neutral",
+      "emotions": [],
+      "category": "general",
+      "language": "en",
+      "content_type": "video",
+      "analyzed_at": "2025-11-24T11:17:13.666855",
+      "raw_data": {
+        "author": {
+          "avatar": [
+            {
+              "height": 68,
+              "url": "https://yt3.ggpht.com/OptVhVGLahUfZ5FI0ZfNi_XsMv-RO8XI1XbZf7Cpk3rbvfvme1oFm7IcoBMro_raHBXGzcE1dw=s68-c-k-c0x00ffffff-no-rj",
+              "width": 68
+            }
+          ],
+          "badges": [
+            {
+              "text": "Verified",
+              "type": "VERIFIED_CHANNEL"
+            }
+          ],
+          "canonicalBaseUrl": "/@djojohadikusumo",
+          "channelId": "UCOhcvIMiRI4KVfJWPkBwlBg",
+          "title": "Prabowo Subianto"
+        },
+        "badges": [
+          "Indonesian (automatic)",
+          "New"
+        ],
+        "descriptionSnippet": "#Prabowo #PrabowoPresiden2024",
+        "isLiveNow": false,
+        "lengthSeconds": 166,
+        "movingThumbnails": [
+          {
+            "height": 180,
+            "url": "https://i.ytimg.com/an_webp/VGJLGsGg4pI/mqdefault_6s.webp?du=3000&sqp=CPjQjckG&rs=AOn4CLBiNLnvGGHXb_hLLej_x8I27v_jJA",
+            "width": 320
+          }
+        ],
+        "publishedTimeText": "4 days ago",
+        "stats": {
+          "views": 3408
+        },
+        "thumbnails": [
+          {
+            "height": 202,
+            "url": "https://i.ytimg.com/vi/VGJLGsGg4pI/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhyIF4oQjAP&rs=AOn4CLDg85eIzlZLZvYqvC8xUuXakRQtAQ",
+            "width": 360
+          },
+          {
+            "height": 404,
+            "url": "https://i.ytimg.com/vi/VGJLGsGg4pI/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhyIF4oQjAP&rs=AOn4CLB8SgdMUFINayJubhDKm-mf6lKtHw",
+            "width": 720
+          }
+        ],
+        "title": "Presiden Prabowo : Indonesia Akan Bangun 66 RS Baru",
+        "videoId": "VGJLGsGg4pI"
+      }
+    }
+  },
+  {
+    "_index": "social_media_posts",
+    "_id": "youtube_Ho412q9iFD8",
+    "_score": 1.0,
+    "_source": {
+      "platform": "youtube",
+      "platform_id": "Ho412q9iFD8",
+      "content": "Presiden Prabowo Resmikan RS Kardiologi Emirates–Indonesia Simbol Persahabatan Dua Bangsa #Prabowo #indonesia",
+      "title": "Presiden Prabowo Resmikan RS Kardiologi Emirates–Indonesia Simbol Persahabatan Dua Bangsa",
+      "description": "#Prabowo #indonesia",
+      "author": {
+        "id": "UCOhcvIMiRI4KVfJWPkBwlBg",
+        "title": "Prabowo Subianto",
+        "username": "djojohadikusumo",
+        "profile_image_url": "https://yt3.ggpht.com/OptVhVGLahUfZ5FI0ZfNi_XsMv-RO8XI1XbZf7Cpk3rbvfvme1oFm7IcoBMro_raHBXGzcE1dw=s68-c-k-c0x00ffffff-no-rj",
+        "badges": [
+          {
+            "text": "Verified",
+            "type": "VERIFIED_CHANNEL"
+          }
+        ],
+        "is_verified": true
+      },
+      "timestamp": "2025-11-24T11:17:13.666861",
+      "published_time_text": "4 days ago",
+      "url": "https://www.youtube.com/watch?v=Ho412q9iFD8",
+      "metrics": {
+        "view_count": 1541,
+        "like_count": 0,
+        "comment_count": 0,
+        "share_count": 0
+      },
+      "duration_seconds": 128,
+      "duration_formatted": "02:08",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/Ho412q9iFD8/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhyIEooKjAP&rs=AOn4CLB7BSlnLN0HWRdb5sFwXpa_2i1Mxg",
+          "width": 360,
+          "height": 202
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Ho412q9iFD8/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhyIEooKjAP&rs=AOn4CLA32atqI-rsCTQHAEjhbUJgZ9r1kw",
+          "width": 720,
+          "height": 404
+        }
+      ],
+      "moving_thumbnails": [
+        {
+          "height": 180,
+          "url": "https://i.ytimg.com/an_webp/Ho412q9iFD8/mqdefault_6s.webp?du=3000&sqp=CPq_jckG&rs=AOn4CLBb24RGnuILVAu4NS7OQhf881_U9g",
+          "width": 320
+        }
+      ],
+      "badges": [
+        "Indonesian (automatic)",
+        "New"
+      ],
+      "is_live": false,
+      "hashtags": [
+        "Prabowo",
+        "indonesia"
+      ],
+      "mentions": [],
+      "sentiment": "neutral",
+      "emotions": [],
+      "category": "general",
+      "language": "en",
+      "content_type": "video",
+      "analyzed_at": "2025-11-24T11:17:13.666893",
+      "raw_data": {
+        "author": {
+          "avatar": [
+            {
+              "height": 68,
+              "url": "https://yt3.ggpht.com/OptVhVGLahUfZ5FI0ZfNi_XsMv-RO8XI1XbZf7Cpk3rbvfvme1oFm7IcoBMro_raHBXGzcE1dw=s68-c-k-c0x00ffffff-no-rj",
+              "width": 68
+            }
+          ],
+          "badges": [
+            {
+              "text": "Verified",
+              "type": "VERIFIED_CHANNEL"
+            }
+          ],
+          "canonicalBaseUrl": "/@djojohadikusumo",
+          "channelId": "UCOhcvIMiRI4KVfJWPkBwlBg",
+          "title": "Prabowo Subianto"
+        },
+        "badges": [
+          "Indonesian (automatic)",
+          "New"
+        ],
+        "descriptionSnippet": "#Prabowo #indonesia",
+        "isLiveNow": false,
+        "lengthSeconds": 128,
+        "movingThumbnails": [
+          {
+            "height": 180,
+            "url": "https://i.ytimg.com/an_webp/Ho412q9iFD8/mqdefault_6s.webp?du=3000&sqp=CPq_jckG&rs=AOn4CLBb24RGnuILVAu4NS7OQhf881_U9g",
+            "width": 320
+          }
+        ],
+        "publishedTimeText": "4 days ago",
+        "stats": {
+          "views": 1541
+        },
+        "thumbnails": [
+          {
+            "height": 202,
+            "url": "https://i.ytimg.com/vi/Ho412q9iFD8/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhyIEooKjAP&rs=AOn4CLB7BSlnLN0HWRdb5sFwXpa_2i1Mxg",
+            "width": 360
+          },
+          {
+            "height": 404,
+            "url": "https://i.ytimg.com/vi/Ho412q9iFD8/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhyIEooKjAP&rs=AOn4CLA32atqI-rsCTQHAEjhbUJgZ9r1kw",
+            "width": 720
+          }
+        ],
+        "title": "Presiden Prabowo Resmikan RS Kardiologi Emirates–Indonesia Simbol Persahabatan Dua Bangsa",
+        "videoId": "Ho412q9iFD8"
+      }
+    }
+  },
+  {
+    "_index": "social_media_posts",
+    "_id": "youtube_537ix1UNTKs",
+    "_score": 1.0,
+    "_source": {
+      "platform": "youtube",
+      "platform_id": "537ix1UNTKs",
+      "content": "Presiden Prabowo Menghadiri Peluncuran Digitalisasi Pembelajaran Untuk Indonesia Cerdas #Prabowo #indonesia",
+      "title": "Presiden Prabowo Menghadiri Peluncuran Digitalisasi Pembelajaran Untuk Indonesia Cerdas",
+      "description": "#Prabowo #indonesia",
+      "author": {
+        "id": "UCOhcvIMiRI4KVfJWPkBwlBg",
+        "title": "Prabowo Subianto",
+        "username": "djojohadikusumo",
+        "profile_image_url": "https://yt3.ggpht.com/OptVhVGLahUfZ5FI0ZfNi_XsMv-RO8XI1XbZf7Cpk3rbvfvme1oFm7IcoBMro_raHBXGzcE1dw=s68-c-k-c0x00ffffff-no-rj",
+        "badges": [
+          {
+            "text": "Verified",
+            "type": "VERIFIED_CHANNEL"
+          }
+        ],
+        "is_verified": true
+      },
+      "timestamp": "2025-11-24T11:17:13.666898",
+      "published_time_text": "6 days ago",
+      "url": "https://www.youtube.com/watch?v=537ix1UNTKs",
+      "metrics": {
+        "view_count": 7789,
+        "like_count": 0,
+        "comment_count": 0,
+        "share_count": 0
+      },
+      "duration_seconds": 295,
+      "duration_formatted": "04:55",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/537ix1UNTKs/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARg-IFMoZTAP&rs=AOn4CLBdbf_2rSZEm0AX_uxTdz2lFQQP1A",
+          "width": 360,
+          "height": 202
+        },
+        {
+          "url": "https://i.ytimg.com/vi/537ix1UNTKs/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARg-IFMoZTAP&rs=AOn4CLAEo1jm5p34XsxLN73DToIBMmzEyQ",
+          "width": 720,
+          "height": 404
+        }
+      ],
+      "moving_thumbnails": [
+        {
+          "height": 180,
+          "url": "https://i.ytimg.com/an_webp/537ix1UNTKs/mqdefault_6s.webp?du=3000&sqp=CKysjckG&rs=AOn4CLDq8ppqRIZRabnv951F94UXWIqrBg",
+          "width": 320
+        }
+      ],
+      "badges": [
+        "Indonesian (automatic)",
+        "New"
+      ],
+      "is_live": false,
+      "hashtags": [
+        "Prabowo",
+        "indonesia"
+      ],
+      "mentions": [],
+      "sentiment": "neutral",
+      "emotions": [],
+      "category": "general",
+      "language": "en",
+      "content_type": "video",
+      "analyzed_at": "2025-11-24T11:17:13.666924",
+      "raw_data": {
+        "author": {
+          "avatar": [
+            {
+              "height": 68,
+              "url": "https://yt3.ggpht.com/OptVhVGLahUfZ5FI0ZfNi_XsMv-RO8XI1XbZf7Cpk3rbvfvme1oFm7IcoBMro_raHBXGzcE1dw=s68-c-k-c0x00ffffff-no-rj",
+              "width": 68
+            }
+          ],
+          "badges": [
+            {
+              "text": "Verified",
+              "type": "VERIFIED_CHANNEL"
+            }
+          ],
+          "canonicalBaseUrl": "/@djojohadikusumo",
+          "channelId": "UCOhcvIMiRI4KVfJWPkBwlBg",
+          "title": "Prabowo Subianto"
+        },
+        "badges": [
+          "Indonesian (automatic)",
+          "New"
+        ],
+        "descriptionSnippet": "#Prabowo #indonesia",
+        "isLiveNow": false,
+        "lengthSeconds": 295,
+        "movingThumbnails": [
+          {
+            "height": 180,
+            "url": "https://i.ytimg.com/an_webp/537ix1UNTKs/mqdefault_6s.webp?du=3000&sqp=CKysjckG&rs=AOn4CLDq8ppqRIZRabnv951F94UXWIqrBg",
+            "width": 320
+          }
+        ],
+        "publishedTimeText": "6 days ago",
+        "stats": {
+          "views": 7789
+        },
+        "thumbnails": [
+          {
+            "height": 202,
+            "url": "https://i.ytimg.com/vi/537ix1UNTKs/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARg-IFMoZTAP&rs=AOn4CLBdbf_2rSZEm0AX_uxTdz2lFQQP1A",
+            "width": 360
+          },
+          {
+            "height": 404,
+            "url": "https://i.ytimg.com/vi/537ix1UNTKs/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARg-IFMoZTAP&rs=AOn4CLAEo1jm5p34XsxLN73DToIBMmzEyQ",
+            "width": 720
+          }
+        ],
+        "title": "Presiden Prabowo Menghadiri Peluncuran Digitalisasi Pembelajaran Untuk Indonesia Cerdas",
+        "videoId": "537ix1UNTKs"
+      }
+    }
+  },
+  {
+    "_index": "social_media_posts",
+    "_id": "youtube_5YPe_eL-aHM",
+    "_score": 1.0,
+    "_source": {
+      "platform": "youtube",
+      "platform_id": "5YPe_eL-aHM",
+      "content": "Unjuk Sinergi: Presiden Prabowo dan Raja Abdullah II Pantau Demonstrasi Drone Bersama #Prabowo #rajaabdullah #yordania #indonesia",
+      "title": "Unjuk Sinergi: Presiden Prabowo dan Raja Abdullah II Pantau Demonstrasi Drone Bersama",
+      "description": "#Prabowo #rajaabdullah #yordania #indonesia",
+      "author": {
+        "id": "UCOhcvIMiRI4KVfJWPkBwlBg",
+        "title": "Prabowo Subianto",
+        "username": "djojohadikusumo",
+        "profile_image_url": "https://yt3.ggpht.com/OptVhVGLahUfZ5FI0ZfNi_XsMv-RO8XI1XbZf7Cpk3rbvfvme1oFm7IcoBMro_raHBXGzcE1dw=s68-c-k-c0x00ffffff-no-rj",
+        "badges": [
+          {
+            "text": "Verified",
+            "type": "VERIFIED_CHANNEL"
+          }
+        ],
+        "is_verified": true
+      },
+      "timestamp": "2025-11-24T11:17:13.666928",
+      "published_time_text": "8 days ago",
+      "url": "https://www.youtube.com/watch?v=5YPe_eL-aHM",
+      "metrics": {
+        "view_count": 85158,
+        "like_count": 0,
+        "comment_count": 0,
+        "share_count": 0
+      },
+      "duration_seconds": 146,
+      "duration_formatted": "02:26",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/5YPe_eL-aHM/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhyIE0oLzAP&rs=AOn4CLAqX0yfcXVOqVsozK8rZEpp6LYgTA",
+          "width": 360,
+          "height": 202
+        },
+        {
+          "url": "https://i.ytimg.com/vi/5YPe_eL-aHM/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhyIE0oLzAP&rs=AOn4CLD_Z64PvmS9O2Y9ZiN-ZZjVwXx5rQ",
+          "width": 720,
+          "height": 404
+        }
+      ],
+      "moving_thumbnails": [
+        {
+          "height": 180,
+          "url": "https://i.ytimg.com/an_webp/5YPe_eL-aHM/mqdefault_6s.webp?du=3000&sqp=CNG7jckG&rs=AOn4CLDVOlX3b8qaLoFF0PrtyTIAWYr1pg",
+          "width": 320
+        }
+      ],
+      "badges": [
+        "Indonesian (automatic)"
+      ],
+      "is_live": false,
+      "hashtags": [
+        "Prabowo",
+        "rajaabdullah",
+        "yordania",
+        "indonesia"
+      ],
+      "mentions": [],
+      "sentiment": "neutral",
+      "emotions": [],
+      "category": "general",
+      "language": "en",
+      "content_type": "video",
+      "analyzed_at": "2025-11-24T11:17:13.666956",
+      "raw_data": {
+        "author": {
+          "avatar": [
+            {
+              "height": 68,
+              "url": "https://yt3.ggpht.com/OptVhVGLahUfZ5FI0ZfNi_XsMv-RO8XI1XbZf7Cpk3rbvfvme1oFm7IcoBMro_raHBXGzcE1dw=s68-c-k-c0x00ffffff-no-rj",
+              "width": 68
+            }
+          ],
+          "badges": [
+            {
+              "text": "Verified",
+              "type": "VERIFIED_CHANNEL"
+            }
+          ],
+          "canonicalBaseUrl": "/@djojohadikusumo",
+          "channelId": "UCOhcvIMiRI4KVfJWPkBwlBg",
+          "title": "Prabowo Subianto"
+        },
+        "badges": [
+          "Indonesian (automatic)"
+        ],
+        "descriptionSnippet": "#Prabowo #rajaabdullah #yordania #indonesia",
+        "isLiveNow": false,
+        "lengthSeconds": 146,
+        "movingThumbnails": [
+          {
+            "height": 180,
+            "url": "https://i.ytimg.com/an_webp/5YPe_eL-aHM/mqdefault_6s.webp?du=3000&sqp=CNG7jckG&rs=AOn4CLDVOlX3b8qaLoFF0PrtyTIAWYr1pg",
+            "width": 320
+          }
+        ],
+        "publishedTimeText": "8 days ago",
+        "stats": {
+          "views": 85158
+        },
+        "thumbnails": [
+          {
+            "height": 202,
+            "url": "https://i.ytimg.com/vi/5YPe_eL-aHM/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhyIE0oLzAP&rs=AOn4CLAqX0yfcXVOqVsozK8rZEpp6LYgTA",
+            "width": 360
+          },
+          {
+            "height": 404,
+            "url": "https://i.ytimg.com/vi/5YPe_eL-aHM/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhyIE0oLzAP&rs=AOn4CLD_Z64PvmS9O2Y9ZiN-ZZjVwXx5rQ",
+            "width": 720
+          }
+        ],
+        "title": "Unjuk Sinergi: Presiden Prabowo dan Raja Abdullah II Pantau Demonstrasi Drone Bersama",
+        "videoId": "5YPe_eL-aHM"
+      }
+    }
+  },
+  {
+    "_index": "social_media_posts",
+    "_id": "youtube_lXATrrUePss",
+    "_score": 1.0,
+    "_source": {
+      "platform": "youtube",
+      "platform_id": "lXATrrUePss",
+      "content": "Saling Berbalas Hormat, Presiden Prabowo Lepas Kepulangan Raja Yordania Abdullah II prabowo #rajaabdullahII #yordania #indonesia.",
+      "title": "Saling Berbalas Hormat, Presiden Prabowo Lepas Kepulangan Raja Yordania Abdullah II",
+      "description": "prabowo #rajaabdullahII #yordania #indonesia.",
+      "author": {
+        "id": "UCOhcvIMiRI4KVfJWPkBwlBg",
+        "title": "Prabowo Subianto",
+        "username": "djojohadikusumo",
+        "profile_image_url": "https://yt3.ggpht.com/OptVhVGLahUfZ5FI0ZfNi_XsMv-RO8XI1XbZf7Cpk3rbvfvme1oFm7IcoBMro_raHBXGzcE1dw=s68-c-k-c0x00ffffff-no-rj",
+        "badges": [
+          {
+            "text": "Verified",
+            "type": "VERIFIED_CHANNEL"
+          }
+        ],
+        "is_verified": true
+      },
+      "timestamp": "2025-11-24T11:17:13.666959",
+      "published_time_text": "8 days ago",
+      "url": "https://www.youtube.com/watch?v=lXATrrUePss",
+      "metrics": {
+        "view_count": 9747,
+        "like_count": 0,
+        "comment_count": 0,
+        "share_count": 0
+      },
+      "duration_seconds": 154,
+      "duration_formatted": "02:34",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/lXATrrUePss/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARgyIF0ocjAP&rs=AOn4CLAHwngADTZvh-wfqyKSC3fjfOzMiQ",
+          "width": 360,
+          "height": 202
+        },
+        {
+          "url": "https://i.ytimg.com/vi/lXATrrUePss/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARgyIF0ocjAP&rs=AOn4CLCmPrIw6SW5v_UN3BkTO7FmX2DdfQ",
+          "width": 720,
+          "height": 404
+        }
+      ],
+      "moving_thumbnails": [
+        {
+          "height": 180,
+          "url": "https://i.ytimg.com/an_webp/lXATrrUePss/mqdefault_6s.webp?du=3000&sqp=CPHRjckG&rs=AOn4CLAwiVblZqJhIHJH79YB4_OyHJuXeA",
+          "width": 320
+        }
+      ],
+      "badges": [],
+      "is_live": false,
+      "hashtags": [
+        "rajaabdullahII",
+        "yordania",
+        "indonesia"
+      ],
+      "mentions": [],
+      "sentiment": "neutral",
+      "emotions": [],
+      "category": "general",
+      "language": "en",
+      "content_type": "video",
+      "analyzed_at": "2025-11-24T11:17:13.666988",
+      "raw_data": {
+        "author": {
+          "avatar": [
+            {
+              "height": 68,
+              "url": "https://yt3.ggpht.com/OptVhVGLahUfZ5FI0ZfNi_XsMv-RO8XI1XbZf7Cpk3rbvfvme1oFm7IcoBMro_raHBXGzcE1dw=s68-c-k-c0x00ffffff-no-rj",
+              "width": 68
+            }
+          ],
+          "badges": [
+            {
+              "text": "Verified",
+              "type": "VERIFIED_CHANNEL"
+            }
+          ],
+          "canonicalBaseUrl": "/@djojohadikusumo",
+          "channelId": "UCOhcvIMiRI4KVfJWPkBwlBg",
+          "title": "Prabowo Subianto"
+        },
+        "badges": [],
+        "descriptionSnippet": "prabowo #rajaabdullahII #yordania #indonesia.",
+        "isLiveNow": false,
+        "lengthSeconds": 154,
+        "movingThumbnails": [
+          {
+            "height": 180,
+            "url": "https://i.ytimg.com/an_webp/lXATrrUePss/mqdefault_6s.webp?du=3000&sqp=CPHRjckG&rs=AOn4CLAwiVblZqJhIHJH79YB4_OyHJuXeA",
+            "width": 320
+          }
+        ],
+        "publishedTimeText": "8 days ago",
+        "stats": {
+          "views": 9747
+        },
+        "thumbnails": [
+          {
+            "height": 202,
+            "url": "https://i.ytimg.com/vi/lXATrrUePss/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARgyIF0ocjAP&rs=AOn4CLAHwngADTZvh-wfqyKSC3fjfOzMiQ",
+            "width": 360
+          },
+          {
+            "height": 404,
+            "url": "https://i.ytimg.com/vi/lXATrrUePss/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARgyIF0ocjAP&rs=AOn4CLCmPrIw6SW5v_UN3BkTO7FmX2DdfQ",
+            "width": 720
+          }
+        ],
+        "title": "Saling Berbalas Hormat, Presiden Prabowo Lepas Kepulangan Raja Yordania Abdullah II",
+        "videoId": "lXATrrUePss"
+      }
+    }
+  },
+  {
+    "_index": "social_media_posts",
+    "_id": "youtube_naYcuDAyxIA",
+    "_score": 1.0,
+    "_source": {
+      "platform": "youtube",
+      "platform_id": "naYcuDAyxIA",
+      "content": "LIVE: KUNJUNGAN RAJA KERAJAAN YORDANIA HASYIMIAH RAJA ABDULLAH II ibn AL HUSSEIN Presiden Prabowo Subianto akan menerima kunjungan kenegaraan Raja Kerajaan Yordania Hasyimiah, Raja Abdullah II ibn Al ...",
+      "title": "LIVE: KUNJUNGAN RAJA KERAJAAN YORDANIA HASYIMIAH RAJA ABDULLAH II ibn AL HUSSEIN",
+      "description": "Presiden Prabowo Subianto akan menerima kunjungan kenegaraan Raja Kerajaan Yordania Hasyimiah, Raja Abdullah II ibn Al ...",
+      "author": {
+        "id": "UCOhcvIMiRI4KVfJWPkBwlBg",
+        "title": "Prabowo Subianto",
+        "username": "djojohadikusumo",
+        "profile_image_url": "https://yt3.ggpht.com/OptVhVGLahUfZ5FI0ZfNi_XsMv-RO8XI1XbZf7Cpk3rbvfvme1oFm7IcoBMro_raHBXGzcE1dw=s68-c-k-c0x00ffffff-no-rj",
+        "badges": [
+          {
+            "text": "Verified",
+            "type": "VERIFIED_CHANNEL"
+          }
+        ],
+        "is_verified": true
+      },
+      "timestamp": "2025-11-24T11:17:13.666992",
+      "published_time_text": "Streamed 9 days ago",
+      "url": "https://www.youtube.com/watch?v=naYcuDAyxIA",
+      "metrics": {
+        "view_count": 16822,
+        "like_count": 0,
+        "comment_count": 0,
+        "share_count": 0
+      },
+      "duration_seconds": 8307,
+      "duration_formatted": "02:18:27",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/naYcuDAyxIA/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDpzTDjZELtJqYFadUDR9MashwWrQ",
+          "width": 480,
+          "height": 270
+        }
+      ],
+      "moving_thumbnails": [
+        {
+          "height": 180,
+          "url": "https://i.ytimg.com/an_webp/naYcuDAyxIA/mqdefault_6s.webp?du=3000&sqp=CODQjckG&rs=AOn4CLBVzQWyggOa_SNqXlpf-e72dumX_g",
+          "width": 320
+        }
+      ],
+      "badges": [],
+      "is_live": false,
+      "hashtags": [],
+      "mentions": [],
+      "sentiment": "neutral",
+      "emotions": [],
+      "category": "general",
+      "language": "en",
+      "content_type": "video",
+      "analyzed_at": "2025-11-24T11:17:13.667028",
+      "raw_data": {
+        "author": {
+          "avatar": [
+            {
+              "height": 68,
+              "url": "https://yt3.ggpht.com/OptVhVGLahUfZ5FI0ZfNi_XsMv-RO8XI1XbZf7Cpk3rbvfvme1oFm7IcoBMro_raHBXGzcE1dw=s68-c-k-c0x00ffffff-no-rj",
+              "width": 68
+            }
+          ],
+          "badges": [
+            {
+              "text": "Verified",
+              "type": "VERIFIED_CHANNEL"
+            }
+          ],
+          "canonicalBaseUrl": "/@djojohadikusumo",
+          "channelId": "UCOhcvIMiRI4KVfJWPkBwlBg",
+          "title": "Prabowo Subianto"
+        },
+        "badges": [],
+        "descriptionSnippet": "Presiden Prabowo Subianto akan menerima kunjungan kenegaraan Raja Kerajaan Yordania Hasyimiah, Raja Abdullah II ibn Al ...",
+        "isLiveNow": false,
+        "lengthSeconds": 8307,
+        "movingThumbnails": [
+          {
+            "height": 180,
+            "url": "https://i.ytimg.com/an_webp/naYcuDAyxIA/mqdefault_6s.webp?du=3000&sqp=CODQjckG&rs=AOn4CLBVzQWyggOa_SNqXlpf-e72dumX_g",
+            "width": 320
+          }
+        ],
+        "publishedTimeText": "Streamed 9 days ago",
+        "stats": {
+          "views": 16822
+        },
+        "thumbnails": [
+          {
+            "height": 270,
+            "url": "https://i.ytimg.com/vi/naYcuDAyxIA/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDpzTDjZELtJqYFadUDR9MashwWrQ",
+            "width": 480
+          }
+        ],
+        "title": "LIVE: KUNJUNGAN RAJA KERAJAAN YORDANIA HASYIMIAH RAJA ABDULLAH II ibn AL HUSSEIN",
+        "videoId": "naYcuDAyxIA"
+      }
+    }
+  },
+  {
+    "_index": "social_media_posts",
+    "_id": "youtube_nXmsfKtzx5s",
+    "_score": 1.0,
+    "_source": {
+      "platform": "youtube",
+      "platform_id": "nXmsfKtzx5s",
+      "content": "MOMEN Wapres Gibran Sampaikan Salam Hangat dari Presiden Prabowo untuk Presiden Afrika Selatan Download aplikasi berita TribunX di Play Store atau App Store untuk dapatkan pengalaman baru. TRIBUN-VIDEO.COM - Wakil ...",
+      "title": "MOMEN Wapres Gibran Sampaikan Salam Hangat dari Presiden Prabowo untuk Presiden Afrika Selatan",
+      "description": "Download aplikasi berita TribunX di Play Store atau App Store untuk dapatkan pengalaman baru. TRIBUN-VIDEO.COM - Wakil ...",
+      "author": {
+        "id": "UCVlBbKdVLBo77VEfNHlOcOA",
+        "title": "Tribun Flores",
+        "username": "tribunflorescom",
+        "profile_image_url": "https://yt3.ggpht.com/9hIk4KtzO3DsVUlDwtiwgZ6n7V3Kz_VF8l2RfxKgvsu_UjdScZskX0hdDogQDesBU68b6h7H=s68-c-k-c0x00ffffff-no-rj",
+        "badges": [],
+        "is_verified": false
+      },
+      "timestamp": "2025-11-24T11:17:13.667033",
+      "published_time_text": "9 hours ago",
+      "url": "https://www.youtube.com/watch?v=nXmsfKtzx5s",
+      "metrics": {
+        "view_count": 8691,
+        "like_count": 0,
+        "comment_count": 0,
+        "share_count": 0
+      },
+      "duration_seconds": 6,
+      "duration_formatted": "00:06",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/nXmsfKtzx5s/hq720_2.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBtgiAAoAPigIMCAAQARgTIFAofzAP&rs=AOn4CLBmme-KIMAmYzbx3xiLQNJy65APww",
+          "width": 360,
+          "height": 202
+        },
+        {
+          "url": "https://i.ytimg.com/vi/nXmsfKtzx5s/hq720_2.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBtgiAAoAPigIMCAAQARgTIFAofzAP&rs=AOn4CLADWyfpM2yEL3Vtzg_veDElreii7Q",
+          "width": 720,
+          "height": 404
+        }
+      ],
+      "moving_thumbnails": null,
+      "badges": [
+        "New"
+      ],
+      "is_live": false,
+      "hashtags": [],
+      "mentions": [],
+      "sentiment": "neutral",
+      "emotions": [],
+      "category": "general",
+      "language": "mixed",
+      "content_type": "video",
+      "analyzed_at": "2025-11-24T11:17:13.667070",
+      "raw_data": {
+        "author": {
+          "avatar": [
+            {
+              "height": 68,
+              "url": "https://yt3.ggpht.com/9hIk4KtzO3DsVUlDwtiwgZ6n7V3Kz_VF8l2RfxKgvsu_UjdScZskX0hdDogQDesBU68b6h7H=s68-c-k-c0x00ffffff-no-rj",
+              "width": 68
+            }
+          ],
+          "badges": [],
+          "canonicalBaseUrl": "/@tribunflorescom",
+          "channelId": "UCVlBbKdVLBo77VEfNHlOcOA",
+          "title": "Tribun Flores"
+        },
+        "badges": [
+          "New"
+        ],
+        "descriptionSnippet": "Download aplikasi berita TribunX di Play Store atau App Store untuk dapatkan pengalaman baru. TRIBUN-VIDEO.COM - Wakil ...",
+        "isLiveNow": false,
+        "lengthSeconds": 6,
+        "movingThumbnails": null,
+        "publishedTimeText": "9 hours ago",
+        "stats": {
+          "views": 8691
+        },
+        "thumbnails": [
+          {
+            "height": 202,
+            "url": "https://i.ytimg.com/vi/nXmsfKtzx5s/hq720_2.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBtgiAAoAPigIMCAAQARgTIFAofzAP&rs=AOn4CLBmme-KIMAmYzbx3xiLQNJy65APww",
+            "width": 360
+          },
+          {
+            "height": 404,
+            "url": "https://i.ytimg.com/vi/nXmsfKtzx5s/hq720_2.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBtgiAAoAPigIMCAAQARgTIFAofzAP&rs=AOn4CLADWyfpM2yEL3Vtzg_veDElreii7Q",
+            "width": 720
+          }
+        ],
+        "title": "MOMEN Wapres Gibran Sampaikan Salam Hangat dari Presiden Prabowo untuk Presiden Afrika Selatan",
+        "videoId": "nXmsfKtzx5s"
+      }
+    }
+  },
+  {
+    "_index": "social_media_posts",
+    "_id": "youtube_699FosX0vSE",
+    "_score": 1.0,
+    "_source": {
+      "platform": "youtube",
+      "platform_id": "699FosX0vSE",
+      "content": "Ini Alasan Presiden Prabowo Absen KTT G20 Afrika Selatan Diwakili Wapres Gibran JAKARTA, KOMPAS.TV Sekretaris Kabinet RI, Letkol Teddy Indra Wijaya mengungkap Presiden RI Prabowo Subianto batal hadir ...",
+      "title": "Ini Alasan Presiden Prabowo Absen KTT G20 Afrika Selatan Diwakili Wapres Gibran",
+      "description": "JAKARTA, KOMPAS.TV Sekretaris Kabinet RI, Letkol Teddy Indra Wijaya mengungkap Presiden RI Prabowo Subianto batal hadir ...",
+      "author": {
+        "id": "UC5BMIWZe9isJXLZZWPWvBlg",
+        "title": "KOMPASTV",
+        "username": "kompastv",
+        "profile_image_url": "https://yt3.ggpht.com/syD5ltfGFB3NL14ldOr2_ISmBhiTfYWEI4mc8WSYacJL9yYf9cBJ8Vdmo3lhEQD_j4T_C9RybzE=s68-c-k-c0x00ffffff-no-rj",
+        "badges": [
+          {
+            "text": "Verified",
+            "type": "VERIFIED_CHANNEL"
+          }
+        ],
+        "is_verified": true
+      },
+      "timestamp": "2025-11-24T11:17:13.667074",
+      "published_time_text": "2 days ago",
+      "url": "https://www.youtube.com/watch?v=699FosX0vSE",
+      "metrics": {
+        "view_count": 16232,
+        "like_count": 0,
+        "comment_count": 0,
+        "share_count": 0
+      },
+      "duration_seconds": 94,
+      "duration_formatted": "01:34",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/699FosX0vSE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDLgvMXGWFERY32ALGoltersspY0Q",
+          "width": 360,
+          "height": 202
+        },
+        {
+          "url": "https://i.ytimg.com/vi/699FosX0vSE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLADz_dmVbLgy6-i-DPXOVwMk-2ptg",
+          "width": 720,
+          "height": 404
+        }
+      ],
+      "moving_thumbnails": [
+        {
+          "height": 180,
+          "url": "https://i.ytimg.com/an_webp/699FosX0vSE/mqdefault_6s.webp?du=3000&sqp=CMnIjckG&rs=AOn4CLBCdsl9fGAtLRKj9lQwVP2M8lA-QA",
+          "width": 320
+        }
+      ],
+      "badges": [
+        "New"
+      ],
+      "is_live": false,
+      "hashtags": [],
+      "mentions": [],
+      "sentiment": "neutral",
+      "emotions": [],
+      "category": "general",
+      "language": "en",
+      "content_type": "video",
+      "analyzed_at": "2025-11-24T11:17:13.667110",
+      "raw_data": {
+        "author": {
+          "avatar": [
+            {
+              "height": 68,
+              "url": "https://yt3.ggpht.com/syD5ltfGFB3NL14ldOr2_ISmBhiTfYWEI4mc8WSYacJL9yYf9cBJ8Vdmo3lhEQD_j4T_C9RybzE=s68-c-k-c0x00ffffff-no-rj",
+              "width": 68
+            }
+          ],
+          "badges": [
+            {
+              "text": "Verified",
+              "type": "VERIFIED_CHANNEL"
+            }
+          ],
+          "canonicalBaseUrl": "/@kompastv",
+          "channelId": "UC5BMIWZe9isJXLZZWPWvBlg",
+          "title": "KOMPASTV"
+        },
+        "badges": [
+          "New"
+        ],
+        "descriptionSnippet": "JAKARTA, KOMPAS.TV Sekretaris Kabinet RI, Letkol Teddy Indra Wijaya mengungkap Presiden RI Prabowo Subianto batal hadir ...",
+        "isLiveNow": false,
+        "lengthSeconds": 94,
+        "movingThumbnails": [
+          {
+            "height": 180,
+            "url": "https://i.ytimg.com/an_webp/699FosX0vSE/mqdefault_6s.webp?du=3000&sqp=CMnIjckG&rs=AOn4CLBCdsl9fGAtLRKj9lQwVP2M8lA-QA",
+            "width": 320
+          }
+        ],
+        "publishedTimeText": "2 days ago",
+        "stats": {
+          "views": 16232
+        },
+        "thumbnails": [
+          {
+            "height": 202,
+            "url": "https://i.ytimg.com/vi/699FosX0vSE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDLgvMXGWFERY32ALGoltersspY0Q",
+            "width": 360
+          },
+          {
+            "height": 404,
+            "url": "https://i.ytimg.com/vi/699FosX0vSE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLADz_dmVbLgy6-i-DPXOVwMk-2ptg",
+            "width": 720
+          }
+        ],
+        "title": "Ini Alasan Presiden Prabowo Absen KTT G20 Afrika Selatan Diwakili Wapres Gibran",
+        "videoId": "699FosX0vSE"
+      }
+    }
+  },
+  {
+    "_index": "social_media_posts",
+    "_id": "youtube_a9inAduPdFY",
+    "_score": 1.0,
+    "_source": {
+      "platform": "youtube",
+      "platform_id": "a9inAduPdFY",
+      "content": "(Sub Ina Eng) Pidato Presiden Prabowo pada Sidang Umum ke 80 PBB, New York, 23 September 2025 Prabowo #PBB #indonesia.",
+      "title": "(Sub Ina Eng) Pidato Presiden Prabowo pada Sidang Umum ke 80 PBB, New York, 23 September 2025",
+      "description": "Prabowo #PBB #indonesia.",
+      "author": {
+        "id": "UCOhcvIMiRI4KVfJWPkBwlBg",
+        "title": "Prabowo Subianto",
+        "username": "djojohadikusumo",
+        "profile_image_url": "https://yt3.ggpht.com/OptVhVGLahUfZ5FI0ZfNi_XsMv-RO8XI1XbZf7Cpk3rbvfvme1oFm7IcoBMro_raHBXGzcE1dw=s68-c-k-c0x00ffffff-no-rj",
+        "badges": [
+          {
+            "text": "Verified",
+            "type": "VERIFIED_CHANNEL"
+          }
+        ],
+        "is_verified": true
+      },
+      "timestamp": "2025-11-24T11:17:13.667114",
+      "published_time_text": "2 months ago",
+      "url": "https://www.youtube.com/watch?v=a9inAduPdFY",
+      "metrics": {
+        "view_count": 567940,
+        "like_count": 0,
+        "comment_count": 0,
+        "share_count": 0
+      },
+      "duration_seconds": 1206,
+      "duration_formatted": "20:06",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/a9inAduPdFY/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAswFigIMCAAQARhOIGUoSjAP&rs=AOn4CLAeASxzoNMl_R2993gELlfLhLCKug",
+          "width": 360,
+          "height": 202
+        },
+        {
+          "url": "https://i.ytimg.com/vi/a9inAduPdFY/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAswFigIMCAAQARhOIGUoSjAP&rs=AOn4CLDMtapf4J1_fzTT8P3jPMKvQiFAWg",
+          "width": 720,
+          "height": 404
+        }
+      ],
+      "moving_thumbnails": [
+        {
+          "height": 180,
+          "url": "https://i.ytimg.com/an_webp/a9inAduPdFY/mqdefault_6s.webp?du=3000&sqp=CJTPjckG&rs=AOn4CLDUiNNM_CYDTEUpetAqqmSWNdArkQ",
+          "width": 320
+        }
+      ],
+      "badges": [],
+      "is_live": false,
+      "hashtags": [
+        "PBB",
+        "indonesia"
+      ],
+      "mentions": [],
+      "sentiment": "neutral",
+      "emotions": [],
+      "category": "general",
+      "language": "en",
+      "content_type": "video",
+      "analyzed_at": "2025-11-24T11:17:13.667141",
+      "raw_data": {
+        "author": {
+          "avatar": [
+            {
+              "height": 68,
+              "url": "https://yt3.ggpht.com/OptVhVGLahUfZ5FI0ZfNi_XsMv-RO8XI1XbZf7Cpk3rbvfvme1oFm7IcoBMro_raHBXGzcE1dw=s68-c-k-c0x00ffffff-no-rj",
+              "width": 68
+            }
+          ],
+          "badges": [
+            {
+              "text": "Verified",
+              "type": "VERIFIED_CHANNEL"
+            }
+          ],
+          "canonicalBaseUrl": "/@djojohadikusumo",
+          "channelId": "UCOhcvIMiRI4KVfJWPkBwlBg",
+          "title": "Prabowo Subianto"
+        },
+        "badges": [],
+        "descriptionSnippet": "Prabowo #PBB #indonesia.",
+        "isLiveNow": false,
+        "lengthSeconds": 1206,
+        "movingThumbnails": [
+          {
+            "height": 180,
+            "url": "https://i.ytimg.com/an_webp/a9inAduPdFY/mqdefault_6s.webp?du=3000&sqp=CJTPjckG&rs=AOn4CLDUiNNM_CYDTEUpetAqqmSWNdArkQ",
+            "width": 320
+          }
+        ],
+        "publishedTimeText": "2 months ago",
+        "stats": {
+          "views": 567940
+        },
+        "thumbnails": [
+          {
+            "height": 202,
+            "url": "https://i.ytimg.com/vi/a9inAduPdFY/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAswFigIMCAAQARhOIGUoSjAP&rs=AOn4CLAeASxzoNMl_R2993gELlfLhLCKug",
+            "width": 360
+          },
+          {
+            "height": 404,
+            "url": "https://i.ytimg.com/vi/a9inAduPdFY/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAswFigIMCAAQARhOIGUoSjAP&rs=AOn4CLDMtapf4J1_fzTT8P3jPMKvQiFAWg",
+            "width": 720
+          }
+        ],
+        "title": "(Sub Ina Eng) Pidato Presiden Prabowo pada Sidang Umum ke 80 PBB, New York, 23 September 2025",
+        "videoId": "a9inAduPdFY"
+      }
+    }
+  },
+  {
+    "_index": "social_media_posts",
+    "_id": "youtube_-CIgCOKV5vc",
+    "_score": 1.0,
+    "_source": {
+      "platform": "youtube",
+      "platform_id": "-CIgCOKV5vc",
+      "content": "Presiden Prabowo Lakukan Pertemuan Virtual dengan PM Inggris Membahas Kerjasama Bilateral | tvOne Kabar Petang, https://www.tvOnenews.com - Presiden Prabowo Lakukan Pertemuan Virtual dengan PM Inggris Membahas ...",
+      "title": "Presiden Prabowo Lakukan Pertemuan Virtual dengan PM Inggris Membahas Kerjasama Bilateral | tvOne",
+      "description": "Kabar Petang, https://www.tvOnenews.com - Presiden Prabowo Lakukan Pertemuan Virtual dengan PM Inggris Membahas ...",
+      "author": {
+        "id": "UCER4rvDnRBPr_ncYW4UCZjg",
+        "title": "tvOneNews ",
+        "username": "tvOneNews",
+        "profile_image_url": "https://yt3.ggpht.com/vbuUafrm9l9BJi1U2EUuMjc2bKPKt9EjODDvkEqvVewyhC-7XGM1afgemhun9hYOy73QSu6f=s68-c-k-c0x00ffffff-no-rj",
+        "badges": [],
+        "is_verified": false
+      },
+      "timestamp": "2025-11-24T11:17:13.667145",
+      "published_time_text": "9 hours ago",
+      "url": "https://www.youtube.com/watch?v=-CIgCOKV5vc",
+      "metrics": {
+        "view_count": 10398,
+        "like_count": 0,
+        "comment_count": 0,
+        "share_count": 0
+      },
+      "duration_seconds": 56,
+      "duration_formatted": "00:56",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/-CIgCOKV5vc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDaYPsFF3jbZDfu8tObdm9sW3fxKQ",
+          "width": 360,
+          "height": 202
+        },
+        {
+          "url": "https://i.ytimg.com/vi/-CIgCOKV5vc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCPGE_8dSWMRiK3DgtPIS5iSRuDQQ",
+          "width": 720,
+          "height": 404
+        }
+      ],
+      "moving_thumbnails": [
+        {
+          "height": 180,
+          "url": "https://i.ytimg.com/an_webp/-CIgCOKV5vc/mqdefault_6s.webp?du=3000&sqp=CJS0jckG&rs=AOn4CLDd6TIHsQAfrzs0-IzvEx7c5pIoRA",
+          "width": 320
+        }
+      ],
+      "badges": [
+        "New"
+      ],
+      "is_live": false,
+      "hashtags": [],
+      "mentions": [],
+      "sentiment": "neutral",
+      "emotions": [],
+      "category": "news",
+      "language": "en",
+      "content_type": "video",
+      "analyzed_at": "2025-11-24T11:17:13.667172",
+      "raw_data": {
+        "author": {
+          "avatar": [
+            {
+              "height": 68,
+              "url": "https://yt3.ggpht.com/vbuUafrm9l9BJi1U2EUuMjc2bKPKt9EjODDvkEqvVewyhC-7XGM1afgemhun9hYOy73QSu6f=s68-c-k-c0x00ffffff-no-rj",
+              "width": 68
+            }
+          ],
+          "badges": [],
+          "canonicalBaseUrl": "/@tvOneNews",
+          "channelId": "UCER4rvDnRBPr_ncYW4UCZjg",
+          "title": "tvOneNews "
+        },
+        "badges": [
+          "New"
+        ],
+        "descriptionSnippet": "Kabar Petang, https://www.tvOnenews.com - Presiden Prabowo Lakukan Pertemuan Virtual dengan PM Inggris Membahas ...",
+        "isLiveNow": false,
+        "lengthSeconds": 56,
+        "movingThumbnails": [
+          {
+            "height": 180,
+            "url": "https://i.ytimg.com/an_webp/-CIgCOKV5vc/mqdefault_6s.webp?du=3000&sqp=CJS0jckG&rs=AOn4CLDd6TIHsQAfrzs0-IzvEx7c5pIoRA",
+            "width": 320
+          }
+        ],
+        "publishedTimeText": "9 hours ago",
+        "stats": {
+          "views": 10398
+        },
+        "thumbnails": [
+          {
+            "height": 202,
+            "url": "https://i.ytimg.com/vi/-CIgCOKV5vc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDaYPsFF3jbZDfu8tObdm9sW3fxKQ",
+            "width": 360
+          },
+          {
+            "height": 404,
+            "url": "https://i.ytimg.com/vi/-CIgCOKV5vc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCPGE_8dSWMRiK3DgtPIS5iSRuDQQ",
+            "width": 720
+          }
+        ],
+        "title": "Presiden Prabowo Lakukan Pertemuan Virtual dengan PM Inggris Membahas Kerjasama Bilateral | tvOne",
+        "videoId": "-CIgCOKV5vc"
+      }
+    }
+  },
+  {
+    "_index": "social_media_posts",
+    "_id": "youtube_XpkMCeaZdOc",
+    "_score": 1.0,
+    "_source": {
+      "platform": "youtube",
+      "platform_id": "XpkMCeaZdOc",
+      "content": "Prabowo Tak ke G20, Gibran Ambil Alih! Kok Bisa? Disclaimer! Konten ini disusun untuk memberikan wawasan dan edukasi sejarah, menggunakan sumber terbuka dan referensi ...",
+      "title": "Prabowo Tak ke G20, Gibran Ambil Alih! Kok Bisa?",
+      "description": "Disclaimer! Konten ini disusun untuk memberikan wawasan dan edukasi sejarah, menggunakan sumber terbuka dan referensi ...",
+      "author": {
+        "id": "UCgHWe6zXFrX65IjINbWfsSg",
+        "title": "Suara Tanpa Nama",
+        "username": "suaratanpanamaa",
+        "profile_image_url": "https://yt3.ggpht.com/huwll8meRVuZqytwlhO7mdgAIuKaDafKRvNWGRYvSCA6-1EQPMPeCvVFDv6agBgAZuCIrT_lhw=s68-c-k-c0x00ffffff-no-rj",
+        "badges": [],
+        "is_verified": false
+      },
+      "timestamp": "2025-11-24T11:17:13.667176",
+      "published_time_text": "1 day ago",
+      "url": "https://www.youtube.com/watch?v=XpkMCeaZdOc",
+      "metrics": {
+        "view_count": 54330,
+        "like_count": 0,
+        "comment_count": 0,
+        "share_count": 0
+      },
+      "duration_seconds": 44,
+      "duration_formatted": "00:44",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/XpkMCeaZdOc/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBtgiAAoAPigIMCAAQARh_IBQoEzAP&rs=AOn4CLCFLIh1-MRFGjyuL9o4yJHMBlOBRA",
+          "width": 360,
+          "height": 202
+        },
+        {
+          "url": "https://i.ytimg.com/vi/XpkMCeaZdOc/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBtgiAAoAPigIMCAAQARh_IBQoEzAP&rs=AOn4CLCEdC87Qx2oR_q3M1BzjqK432wlgw",
+          "width": 720,
+          "height": 404
+        }
+      ],
+      "moving_thumbnails": [
+        {
+          "height": 180,
+          "url": "https://i.ytimg.com/an_webp/XpkMCeaZdOc/mqdefault_6s.webp?du=3000&sqp=CNqwjckG&rs=AOn4CLAe1fuFtVggX8Tfms39KT3n8uf-8g",
+          "width": 320
+        }
+      ],
+      "badges": [
+        "New"
+      ],
+      "is_live": false,
+      "hashtags": [],
+      "mentions": [],
+      "sentiment": "neutral",
+      "emotions": [],
+      "category": "general",
+      "language": "en",
+      "content_type": "video",
+      "analyzed_at": "2025-11-24T11:17:13.667208",
+      "raw_data": {
+        "author": {
+          "avatar": [
+            {
+              "height": 68,
+              "url": "https://yt3.ggpht.com/huwll8meRVuZqytwlhO7mdgAIuKaDafKRvNWGRYvSCA6-1EQPMPeCvVFDv6agBgAZuCIrT_lhw=s68-c-k-c0x00ffffff-no-rj",
+              "width": 68
+            }
+          ],
+          "badges": [],
+          "canonicalBaseUrl": "/@suaratanpanamaa",
+          "channelId": "UCgHWe6zXFrX65IjINbWfsSg",
+          "title": "Suara Tanpa Nama"
+        },
+        "badges": [
+          "New"
+        ],
+        "descriptionSnippet": "Disclaimer! Konten ini disusun untuk memberikan wawasan dan edukasi sejarah, menggunakan sumber terbuka dan referensi ...",
+        "isLiveNow": false,
+        "lengthSeconds": 44,
+        "movingThumbnails": [
+          {
+            "height": 180,
+            "url": "https://i.ytimg.com/an_webp/XpkMCeaZdOc/mqdefault_6s.webp?du=3000&sqp=CNqwjckG&rs=AOn4CLAe1fuFtVggX8Tfms39KT3n8uf-8g",
+            "width": 320
+          }
+        ],
+        "publishedTimeText": "1 day ago",
+        "stats": {
+          "views": 54330
+        },
+        "thumbnails": [
+          {
+            "height": 202,
+            "url": "https://i.ytimg.com/vi/XpkMCeaZdOc/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBtgiAAoAPigIMCAAQARh_IBQoEzAP&rs=AOn4CLCFLIh1-MRFGjyuL9o4yJHMBlOBRA",
+            "width": 360
+          },
+          {
+            "height": 404,
+            "url": "https://i.ytimg.com/vi/XpkMCeaZdOc/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBtgiAAoAPigIMCAAQARh_IBQoEzAP&rs=AOn4CLCEdC87Qx2oR_q3M1BzjqK432wlgw",
+            "width": 720
+          }
+        ],
+        "title": "Prabowo Tak ke G20, Gibran Ambil Alih! Kok Bisa?",
+        "videoId": "XpkMCeaZdOc"
+      }
+    }
+  },
+  {
+    "_index": "social_media_posts",
+    "_id": "youtube_woTva5BqYrU",
+    "_score": 1.0,
+    "_source": {
+      "platform": "youtube",
+      "platform_id": "woTva5BqYrU",
+      "content": "INI ALASANNYA ‼️ MK di era presiden Prabowo lebih garang ? #beritaviral #beritaterkini #prabowo #mk beritaviral #beritaterkini #prabowo #jokowi #berita #purbaya #melekpolitik #politikpanas #beritahari #kunkerjokowi #mk ...",
+      "title": "INI ALASANNYA ‼️ MK di era presiden Prabowo lebih garang ? #beritaviral #beritaterkini #prabowo #mk",
+      "description": "beritaviral #beritaterkini #prabowo #jokowi #berita #purbaya #melekpolitik #politikpanas #beritahari #kunkerjokowi #mk ...",
+      "author": {
+        "id": "UCXs9JtU9zPm1hsWgBeBwpCQ",
+        "title": "Melek politik",
+        "username": "Melekpolitik_95",
+        "profile_image_url": "https://yt3.ggpht.com/AA84wEDcIXErcmgdm43fzY_v0mpj1A70YovrDZQ-SPsZdMj9WbaBDnSmCJJeIky7YtZ0ouxT3A=s68-c-k-c0x00ffffff-no-rj",
+        "badges": [],
+        "is_verified": false
+      },
+      "timestamp": "2025-11-24T11:17:13.667212",
+      "published_time_text": "20 hours ago",
+      "url": "https://www.youtube.com/watch?v=woTva5BqYrU",
+      "metrics": {
+        "view_count": 21421,
+        "like_count": 0,
+        "comment_count": 0,
+        "share_count": 0
+      },
+      "duration_seconds": 58,
+      "duration_formatted": "00:58",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/woTva5BqYrU/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBzgWAAoAKigIMCAAQARhlIFwoUzAP&rs=AOn4CLDdno5mcyTJism0Lrhj5VVsz87a4g",
+          "width": 360,
+          "height": 202
+        },
+        {
+          "url": "https://i.ytimg.com/vi/woTva5BqYrU/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBzgWAAoAKigIMCAAQARhlIFwoUzAP&rs=AOn4CLClzhP9EK4T1Z8pzIf7QQXUh2K76g",
+          "width": 720,
+          "height": 404
+        }
+      ],
+      "moving_thumbnails": [
+        {
+          "height": 180,
+          "url": "https://i.ytimg.com/an_webp/woTva5BqYrU/mqdefault_6s.webp?du=3000&sqp=COzFjckG&rs=AOn4CLCkKKkDv5oRz8MMt1zYi5CjTbjdWQ",
+          "width": 320
+        }
+      ],
+      "badges": [
+        "New"
+      ],
+      "is_live": false,
+      "hashtags": [
+        "beritaterkini",
+        "prabowo",
+        "jokowi",
+        "berita",
+        "purbaya",
+        "melekpolitik",
+        "politikpanas",
+        "beritahari",
+        "kunkerjokowi",
+        "mk"
+      ],
+      "mentions": [],
+      "sentiment": "neutral",
+      "emotions": [],
+      "category": "general",
+      "language": "en",
+      "content_type": "video",
+      "analyzed_at": "2025-11-24T11:17:13.667258",
+      "raw_data": {
+        "author": {
+          "avatar": [
+            {
+              "height": 68,
+              "url": "https://yt3.ggpht.com/AA84wEDcIXErcmgdm43fzY_v0mpj1A70YovrDZQ-SPsZdMj9WbaBDnSmCJJeIky7YtZ0ouxT3A=s68-c-k-c0x00ffffff-no-rj",
+              "width": 68
+            }
+          ],
+          "badges": [],
+          "canonicalBaseUrl": "/@Melekpolitik_95",
+          "channelId": "UCXs9JtU9zPm1hsWgBeBwpCQ",
+          "title": "Melek politik"
+        },
+        "badges": [
+          "New"
+        ],
+        "descriptionSnippet": "beritaviral #beritaterkini #prabowo #jokowi #berita #purbaya #melekpolitik #politikpanas #beritahari #kunkerjokowi #mk ...",
+        "isLiveNow": false,
+        "lengthSeconds": 58,
+        "movingThumbnails": [
+          {
+            "height": 180,
+            "url": "https://i.ytimg.com/an_webp/woTva5BqYrU/mqdefault_6s.webp?du=3000&sqp=COzFjckG&rs=AOn4CLCkKKkDv5oRz8MMt1zYi5CjTbjdWQ",
+            "width": 320
+          }
+        ],
+        "publishedTimeText": "20 hours ago",
+        "stats": {
+          "views": 21421
+        },
+        "thumbnails": [
+          {
+            "height": 202,
+            "url": "https://i.ytimg.com/vi/woTva5BqYrU/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBzgWAAoAKigIMCAAQARhlIFwoUzAP&rs=AOn4CLDdno5mcyTJism0Lrhj5VVsz87a4g",
+            "width": 360
+          },
+          {
+            "height": 404,
+            "url": "https://i.ytimg.com/vi/woTva5BqYrU/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBzgWAAoAKigIMCAAQARhlIFwoUzAP&rs=AOn4CLClzhP9EK4T1Z8pzIf7QQXUh2K76g",
+            "width": 720
+          }
+        ],
+        "title": "INI ALASANNYA ‼️ MK di era presiden Prabowo lebih garang ? #beritaviral #beritaterkini #prabowo #mk",
+        "videoId": "woTva5BqYrU"
+      }
+    }
+  },
+  {
+    "_index": "social_media_posts",
+    "_id": "youtube_643xw4twaFI",
+    "_score": 1.0,
+    "_source": {
+      "platform": "youtube",
+      "platform_id": "643xw4twaFI",
+      "content": "Presiden Prabowo Menyusun Arah Baru Pendidikan Nasional I JENDELA ISTANA Jendela Istana memberikan rangkuman kegiatan terkini Presiden Prabowo Subianto bersama Wakil Presiden serta seluruh ...",
+      "title": "Presiden Prabowo Menyusun Arah Baru Pendidikan Nasional I JENDELA ISTANA",
+      "description": "Jendela Istana memberikan rangkuman kegiatan terkini Presiden Prabowo Subianto bersama Wakil Presiden serta seluruh ...",
+      "author": {
+        "id": "UCmXp0n4Oq8DGzjRZj3EvG4Q",
+        "title": "GARUDA TV",
+        "username": "garudatv.official",
+        "profile_image_url": "https://yt3.ggpht.com/hy5zS-U1_6puIQA7o9O-A2N4sAvrVOf2q3jf3ejHjb6nosfLbJqzciRaDJgw0ftTjOCmPxtXIA=s68-c-k-c0x00ffffff-no-rj",
+        "badges": [
+          {
+            "text": "Verified",
+            "type": "VERIFIED_CHANNEL"
+          }
+        ],
+        "is_verified": true
+      },
+      "timestamp": "2025-11-24T11:17:13.667262",
+      "published_time_text": "Streamed 6 hours ago",
+      "url": "https://www.youtube.com/watch?v=643xw4twaFI",
+      "metrics": {
+        "view_count": 734,
+        "like_count": 0,
+        "comment_count": 0,
+        "share_count": 0
+      },
+      "duration_seconds": 1780,
+      "duration_formatted": "29:40",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/643xw4twaFI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA3CdCbskSv4QfWxDNxejM9_HSD6g",
+          "width": 360,
+          "height": 202
+        },
+        {
+          "url": "https://i.ytimg.com/vi/643xw4twaFI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD3cfzvTenD7_kjH3Zx_fgHpUGyrQ",
+          "width": 720,
+          "height": 404
+        }
+      ],
+      "moving_thumbnails": [
+        {
+          "height": 180,
+          "url": "https://i.ytimg.com/an_webp/643xw4twaFI/mqdefault_6s.webp?du=3000&sqp=CMC2jckG&rs=AOn4CLBcfRPoNVexvMM_DEnwFT8QFyJBRA",
+          "width": 320
+        }
+      ],
+      "badges": [
+        "New"
+      ],
+      "is_live": false,
+      "hashtags": [],
+      "mentions": [],
+      "sentiment": "neutral",
+      "emotions": [],
+      "category": "general",
+      "language": "en",
+      "content_type": "video",
+      "analyzed_at": "2025-11-24T11:17:13.667297",
+      "raw_data": {
+        "author": {
+          "avatar": [
+            {
+              "height": 68,
+              "url": "https://yt3.ggpht.com/hy5zS-U1_6puIQA7o9O-A2N4sAvrVOf2q3jf3ejHjb6nosfLbJqzciRaDJgw0ftTjOCmPxtXIA=s68-c-k-c0x00ffffff-no-rj",
+              "width": 68
+            }
+          ],
+          "badges": [
+            {
+              "text": "Verified",
+              "type": "VERIFIED_CHANNEL"
+            }
+          ],
+          "canonicalBaseUrl": "/@garudatv.official",
+          "channelId": "UCmXp0n4Oq8DGzjRZj3EvG4Q",
+          "title": "GARUDA TV"
+        },
+        "badges": [
+          "New"
+        ],
+        "descriptionSnippet": "Jendela Istana memberikan rangkuman kegiatan terkini Presiden Prabowo Subianto bersama Wakil Presiden serta seluruh ...",
+        "isLiveNow": false,
+        "lengthSeconds": 1780,
+        "movingThumbnails": [
+          {
+            "height": 180,
+            "url": "https://i.ytimg.com/an_webp/643xw4twaFI/mqdefault_6s.webp?du=3000&sqp=CMC2jckG&rs=AOn4CLBcfRPoNVexvMM_DEnwFT8QFyJBRA",
+            "width": 320
+          }
+        ],
+        "publishedTimeText": "Streamed 6 hours ago",
+        "stats": {
+          "views": 734
+        },
+        "thumbnails": [
+          {
+            "height": 202,
+            "url": "https://i.ytimg.com/vi/643xw4twaFI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA3CdCbskSv4QfWxDNxejM9_HSD6g",
+            "width": 360
+          },
+          {
+            "height": 404,
+            "url": "https://i.ytimg.com/vi/643xw4twaFI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD3cfzvTenD7_kjH3Zx_fgHpUGyrQ",
+            "width": 720
+          }
+        ],
+        "title": "Presiden Prabowo Menyusun Arah Baru Pendidikan Nasional I JENDELA ISTANA",
+        "videoId": "643xw4twaFI"
+      }
+    }
+  },
+  {
+    "_index": "social_media_posts",
+    "_id": "youtube_CHY3uVE46wY",
+    "_score": 1.0,
+    "_source": {
+      "platform": "youtube",
+      "platform_id": "CHY3uVE46wY",
+      "content": "Keterangan Pers Presiden Prabowo prabowo #indonesia Hari ini saya didampingi Ketua Umum Partai Politik di dalam dan di luar koalisi, Ketua DPR RI dan ketua ...",
+      "title": "Keterangan Pers Presiden Prabowo",
+      "description": "prabowo #indonesia Hari ini saya didampingi Ketua Umum Partai Politik di dalam dan di luar koalisi, Ketua DPR RI dan ketua ...",
+      "author": {
+        "id": "UCOhcvIMiRI4KVfJWPkBwlBg",
+        "title": "Prabowo Subianto",
+        "username": "djojohadikusumo",
+        "profile_image_url": "https://yt3.ggpht.com/OptVhVGLahUfZ5FI0ZfNi_XsMv-RO8XI1XbZf7Cpk3rbvfvme1oFm7IcoBMro_raHBXGzcE1dw=s68-c-k-c0x00ffffff-no-rj",
+        "badges": [
+          {
+            "text": "Verified",
+            "type": "VERIFIED_CHANNEL"
+          }
+        ],
+        "is_verified": true
+      },
+      "timestamp": "2025-11-24T11:17:13.667301",
+      "published_time_text": "2 months ago",
+      "url": "https://www.youtube.com/watch?v=CHY3uVE46wY",
+      "metrics": {
+        "view_count": 32029,
+        "like_count": 0,
+        "comment_count": 0,
+        "share_count": 0
+      },
+      "duration_seconds": 822,
+      "duration_formatted": "13:42",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/CHY3uVE46wY/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhyIFcoOTAP&rs=AOn4CLCGH4EzmvKQNUcvmlYJ-e8PYxWg0w",
+          "width": 360,
+          "height": 202
+        },
+        {
+          "url": "https://i.ytimg.com/vi/CHY3uVE46wY/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhyIFcoOTAP&rs=AOn4CLDDUFuBIcEhyOkw43g2LhzQsTDu7w",
+          "width": 720,
+          "height": 404
+        }
+      ],
+      "moving_thumbnails": [
+        {
+          "height": 180,
+          "url": "https://i.ytimg.com/an_webp/CHY3uVE46wY/mqdefault_6s.webp?du=3000&sqp=CNjPjckG&rs=AOn4CLB0RJyWy-2fS4to559HzHyKl9TFdw",
+          "width": 320
+        }
+      ],
+      "badges": [],
+      "is_live": false,
+      "hashtags": [
+        "indonesia"
+      ],
+      "mentions": [],
+      "sentiment": "neutral",
+      "emotions": [],
+      "category": "general",
+      "language": "en",
+      "content_type": "video",
+      "analyzed_at": "2025-11-24T11:17:13.667332",
+      "raw_data": {
+        "author": {
+          "avatar": [
+            {
+              "height": 68,
+              "url": "https://yt3.ggpht.com/OptVhVGLahUfZ5FI0ZfNi_XsMv-RO8XI1XbZf7Cpk3rbvfvme1oFm7IcoBMro_raHBXGzcE1dw=s68-c-k-c0x00ffffff-no-rj",
+              "width": 68
+            }
+          ],
+          "badges": [
+            {
+              "text": "Verified",
+              "type": "VERIFIED_CHANNEL"
+            }
+          ],
+          "canonicalBaseUrl": "/@djojohadikusumo",
+          "channelId": "UCOhcvIMiRI4KVfJWPkBwlBg",
+          "title": "Prabowo Subianto"
+        },
+        "badges": [],
+        "descriptionSnippet": "prabowo #indonesia Hari ini saya didampingi Ketua Umum Partai Politik di dalam dan di luar koalisi, Ketua DPR RI dan ketua ...",
+        "isLiveNow": false,
+        "lengthSeconds": 822,
+        "movingThumbnails": [
+          {
+            "height": 180,
+            "url": "https://i.ytimg.com/an_webp/CHY3uVE46wY/mqdefault_6s.webp?du=3000&sqp=CNjPjckG&rs=AOn4CLB0RJyWy-2fS4to559HzHyKl9TFdw",
+            "width": 320
+          }
+        ],
+        "publishedTimeText": "2 months ago",
+        "stats": {
+          "views": 32029
+        },
+        "thumbnails": [
+          {
+            "height": 202,
+            "url": "https://i.ytimg.com/vi/CHY3uVE46wY/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhyIFcoOTAP&rs=AOn4CLCGH4EzmvKQNUcvmlYJ-e8PYxWg0w",
+            "width": 360
+          },
+          {
+            "height": 404,
+            "url": "https://i.ytimg.com/vi/CHY3uVE46wY/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhyIFcoOTAP&rs=AOn4CLDDUFuBIcEhyOkw43g2LhzQsTDu7w",
+            "width": 720
+          }
+        ],
+        "title": "Keterangan Pers Presiden Prabowo",
+        "videoId": "CHY3uVE46wY"
+      }
+    }
+  },
+  {
+    "_index": "social_media_posts",
+    "_id": "youtube_LwPYeUDaADU",
+    "_score": 1.0,
+    "_source": {
+      "platform": "youtube",
+      "platform_id": "LwPYeUDaADU",
+      "content": "MAHFUD MD UNGKAP PRABOWO MARAH DI RAPAT TERTUTUP, SINGGUNG BINTANG JENDERAL TAK BERGUNA JIKA... Mantan Menko Polhukam Mahfud MD, mengungkapkan sejumlah momen menarik seusai dirinya dilantik Presiden Prabowo ...",
+      "title": "MAHFUD MD UNGKAP PRABOWO MARAH DI RAPAT TERTUTUP, SINGGUNG BINTANG JENDERAL TAK BERGUNA JIKA...",
+      "description": "Mantan Menko Polhukam Mahfud MD, mengungkapkan sejumlah momen menarik seusai dirinya dilantik Presiden Prabowo ...",
+      "author": {
+        "id": "UCDxjhss7qTdHYLMchzmRn3w",
+        "title": "Tribun Singkawang",
+        "username": "TribunSingkawang1",
+        "profile_image_url": "https://yt3.ggpht.com/cz5H6jiSivbhIvJyY7G3_uR0a3VOibjYXv9D6gmSjihiVxyo1fpBLloQTxI69WGL7wSkxSDD4w=s68-c-k-c0x00ffffff-no-rj",
+        "badges": [
+          {
+            "text": "Verified",
+            "type": "VERIFIED_CHANNEL"
+          }
+        ],
+        "is_verified": true
+      },
+      "timestamp": "2025-11-24T11:17:13.667336",
+      "published_time_text": "1 day ago",
+      "url": "https://www.youtube.com/watch?v=LwPYeUDaADU",
+      "metrics": {
+        "view_count": 18820,
+        "like_count": 0,
+        "comment_count": 0,
+        "share_count": 0
+      },
+      "duration_seconds": 182,
+      "duration_formatted": "03:02",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/LwPYeUDaADU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCSr4lBCvdjoj9Mu7hd52ZlXB-x8A",
+          "width": 360,
+          "height": 202
+        },
+        {
+          "url": "https://i.ytimg.com/vi/LwPYeUDaADU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCztRyMHvVCzgOqbKdxp7d5KGZH8w",
+          "width": 720,
+          "height": 404
+        }
+      ],
+      "moving_thumbnails": [
+        {
+          "height": 180,
+          "url": "https://i.ytimg.com/an_webp/LwPYeUDaADU/mqdefault_6s.webp?du=3000&sqp=CKWmjckG&rs=AOn4CLAF_MatxMuROvIU0cqEpWY3cYMFqg",
+          "width": 320
+        }
+      ],
+      "badges": [
+        "New"
+      ],
+      "is_live": false,
+      "hashtags": [],
+      "mentions": [],
+      "sentiment": "neutral",
+      "emotions": [],
+      "category": "general",
+      "language": "en",
+      "content_type": "video",
+      "analyzed_at": "2025-11-24T11:17:13.667373",
+      "raw_data": {
+        "author": {
+          "avatar": [
+            {
+              "height": 68,
+              "url": "https://yt3.ggpht.com/cz5H6jiSivbhIvJyY7G3_uR0a3VOibjYXv9D6gmSjihiVxyo1fpBLloQTxI69WGL7wSkxSDD4w=s68-c-k-c0x00ffffff-no-rj",
+              "width": 68
+            }
+          ],
+          "badges": [
+            {
+              "text": "Verified",
+              "type": "VERIFIED_CHANNEL"
+            }
+          ],
+          "canonicalBaseUrl": "/@TribunSingkawang1",
+          "channelId": "UCDxjhss7qTdHYLMchzmRn3w",
+          "title": "Tribun Singkawang"
+        },
+        "badges": [
+          "New"
+        ],
+        "descriptionSnippet": "Mantan Menko Polhukam Mahfud MD, mengungkapkan sejumlah momen menarik seusai dirinya dilantik Presiden Prabowo ...",
+        "isLiveNow": false,
+        "lengthSeconds": 182,
+        "movingThumbnails": [
+          {
+            "height": 180,
+            "url": "https://i.ytimg.com/an_webp/LwPYeUDaADU/mqdefault_6s.webp?du=3000&sqp=CKWmjckG&rs=AOn4CLAF_MatxMuROvIU0cqEpWY3cYMFqg",
+            "width": 320
+          }
+        ],
+        "publishedTimeText": "1 day ago",
+        "stats": {
+          "views": 18820
+        },
+        "thumbnails": [
+          {
+            "height": 202,
+            "url": "https://i.ytimg.com/vi/LwPYeUDaADU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCSr4lBCvdjoj9Mu7hd52ZlXB-x8A",
+            "width": 360
+          },
+          {
+            "height": 404,
+            "url": "https://i.ytimg.com/vi/LwPYeUDaADU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCztRyMHvVCzgOqbKdxp7d5KGZH8w",
+            "width": 720
+          }
+        ],
+        "title": "MAHFUD MD UNGKAP PRABOWO MARAH DI RAPAT TERTUTUP, SINGGUNG BINTANG JENDERAL TAK BERGUNA JIKA...",
+        "videoId": "LwPYeUDaADU"
+      }
+    }
+  },
+  {
+    "_index": "social_media_posts",
+    "_id": "youtube_gGwyNzefE1Q",
+    "_score": 1.0,
+    "_source": {
+      "platform": "youtube",
+      "platform_id": "gGwyNzefE1Q",
+      "content": "Diploma Case Heats Up! Roy Suryo Urges Prabowo to Intervene! Roy Suryo has shocked the public once again.\nThis time, it's not about a photo, or a lengthy debate,\nbut about his request to ...",
+      "title": "Diploma Case Heats Up! Roy Suryo Urges Prabowo to Intervene!",
+      "description": "Roy Suryo has shocked the public once again.\nThis time, it's not about a photo, or a lengthy debate,\nbut about his request to ...",
+      "author": {
+        "id": "UCwCvvIv5j_9qIoOjG2kM8gw",
+        "title": "Mahent Putra official",
+        "username": "Mahentputraofficial",
+        "profile_image_url": "https://yt3.ggpht.com/oNQ4MMK0o7Pr4ppK8K4u_dP258xX44CAqpzK1XPZKRertR05d9zO4eKRM_el1A6wGyLClpIlsco=s68-c-k-c0x00ffffff-no-rj",
+        "badges": [],
+        "is_verified": false
+      },
+      "timestamp": "2025-11-24T11:17:13.667377",
+      "published_time_text": "14 hours ago",
+      "url": "https://www.youtube.com/watch?v=gGwyNzefE1Q",
+      "metrics": {
+        "view_count": 1170,
+        "like_count": 0,
+        "comment_count": 0,
+        "share_count": 0
+      },
+      "duration_seconds": 94,
+      "duration_formatted": "01:34",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/gGwyNzefE1Q/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBtgiAAoAPigIMCAAQARhkIGUoVTAP&rs=AOn4CLDFhzZ6GnezGUr55qEfXLLjQtdzPw",
+          "width": 360,
+          "height": 202
+        },
+        {
+          "url": "https://i.ytimg.com/vi/gGwyNzefE1Q/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBtgiAAoAPigIMCAAQARhkIGUoVTAP&rs=AOn4CLBAod0pU6-GvzsmnXXi8h-hJIyT9w",
+          "width": 720,
+          "height": 404
+        }
+      ],
+      "moving_thumbnails": [
+        {
+          "height": 180,
+          "url": "https://i.ytimg.com/an_webp/gGwyNzefE1Q/mqdefault_6s.webp?du=3000&sqp=CNCTjckG&rs=AOn4CLBj5g5eyZCRMU6eJ8ISPA3LxRwuEQ",
+          "width": 320
+        }
+      ],
+      "badges": [
+        "New"
+      ],
+      "is_live": false,
+      "hashtags": [],
+      "mentions": [],
+      "sentiment": "neutral",
+      "emotions": [],
+      "category": "general",
+      "language": "en",
+      "content_type": "video",
+      "analyzed_at": "2025-11-24T11:17:13.667412",
+      "raw_data": {
+        "author": {
+          "avatar": [
+            {
+              "height": 68,
+              "url": "https://yt3.ggpht.com/oNQ4MMK0o7Pr4ppK8K4u_dP258xX44CAqpzK1XPZKRertR05d9zO4eKRM_el1A6wGyLClpIlsco=s68-c-k-c0x00ffffff-no-rj",
+              "width": 68
+            }
+          ],
+          "badges": [],
+          "canonicalBaseUrl": "/@Mahentputraofficial",
+          "channelId": "UCwCvvIv5j_9qIoOjG2kM8gw",
+          "title": "Mahent Putra official"
+        },
+        "badges": [
+          "New"
+        ],
+        "descriptionSnippet": "Roy Suryo has shocked the public once again.\nThis time, it's not about a photo, or a lengthy debate,\nbut about his request to ...",
+        "isLiveNow": false,
+        "lengthSeconds": 94,
+        "movingThumbnails": [
+          {
+            "height": 180,
+            "url": "https://i.ytimg.com/an_webp/gGwyNzefE1Q/mqdefault_6s.webp?du=3000&sqp=CNCTjckG&rs=AOn4CLBj5g5eyZCRMU6eJ8ISPA3LxRwuEQ",
+            "width": 320
+          }
+        ],
+        "publishedTimeText": "14 hours ago",
+        "stats": {
+          "views": 1170
+        },
+        "thumbnails": [
+          {
+            "height": 202,
+            "url": "https://i.ytimg.com/vi/gGwyNzefE1Q/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBtgiAAoAPigIMCAAQARhkIGUoVTAP&rs=AOn4CLDFhzZ6GnezGUr55qEfXLLjQtdzPw",
+            "width": 360
+          },
+          {
+            "height": 404,
+            "url": "https://i.ytimg.com/vi/gGwyNzefE1Q/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBtgiAAoAPigIMCAAQARhkIGUoVTAP&rs=AOn4CLBAod0pU6-GvzsmnXXi8h-hJIyT9w",
+            "width": 720
+          }
+        ],
+        "title": "Diploma Case Heats Up! Roy Suryo Urges Prabowo to Intervene!",
+        "videoId": "gGwyNzefE1Q"
+      }
+    }
+  },
+  {
+    "_index": "social_media_posts",
+    "_id": "youtube_5Jdq87Kv5Q4",
+    "_score": 1.0,
+    "_source": {
+      "platform": "youtube",
+      "platform_id": "5Jdq87Kv5Q4",
+      "content": "Perlukah Prabowo Hadiri Reuni 212? Perlu atau tidak Prabowo hadir di acara reuni 212 pada 2 Desember 2025? #prabowo #presidenprabowo #212.",
+      "title": "Perlukah Prabowo Hadiri Reuni 212?",
+      "description": "Perlu atau tidak Prabowo hadir di acara reuni 212 pada 2 Desember 2025? #prabowo #presidenprabowo #212.",
+      "author": {
+        "id": "UC-LwzoDZu6wrKMTt-zcNt3Q",
+        "title": "Abang brewok",
+        "username": "meongpuri1217",
+        "profile_image_url": "https://yt3.ggpht.com/dXHuECdQyhU7c7v-pF-j1ke4Pnhd3imvd1vzJwOu48-g8OLWIYCBxJEUKkTuDUXNtf7N5Wbb=s68-c-k-c0x00ffffff-no-rj",
+        "badges": [],
+        "is_verified": false
+      },
+      "timestamp": "2025-11-24T11:17:13.667416",
+      "published_time_text": "7 hours ago",
+      "url": "https://www.youtube.com/watch?v=5Jdq87Kv5Q4",
+      "metrics": {
+        "view_count": 1026,
+        "like_count": 0,
+        "comment_count": 0,
+        "share_count": 0
+      },
+      "duration_seconds": 29,
+      "duration_formatted": "00:29",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/5Jdq87Kv5Q4/hq720_2.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBtgiAAoAPigIMCAAQARhJIFAoZTAP&rs=AOn4CLCuzNAqsPq7DH1vtgx48ep5zIi_rg",
+          "width": 360,
+          "height": 202
+        },
+        {
+          "url": "https://i.ytimg.com/vi/5Jdq87Kv5Q4/hq720_2.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBtgiAAoAPigIMCAAQARhJIFAoZTAP&rs=AOn4CLBKsTYPjBnu0UjTeKSnPGrpIdyysQ",
+          "width": 720,
+          "height": 404
+        }
+      ],
+      "moving_thumbnails": null,
+      "badges": [
+        "New"
+      ],
+      "is_live": false,
+      "hashtags": [
+        "prabowo",
+        "presidenprabowo",
+        "212"
+      ],
+      "mentions": [],
+      "sentiment": "neutral",
+      "emotions": [],
+      "category": "general",
+      "language": "id",
+      "content_type": "video",
+      "analyzed_at": "2025-11-24T11:17:13.667445",
+      "raw_data": {
+        "author": {
+          "avatar": [
+            {
+              "height": 68,
+              "url": "https://yt3.ggpht.com/dXHuECdQyhU7c7v-pF-j1ke4Pnhd3imvd1vzJwOu48-g8OLWIYCBxJEUKkTuDUXNtf7N5Wbb=s68-c-k-c0x00ffffff-no-rj",
+              "width": 68
+            }
+          ],
+          "badges": [],
+          "canonicalBaseUrl": "/@meongpuri1217",
+          "channelId": "UC-LwzoDZu6wrKMTt-zcNt3Q",
+          "title": "Abang brewok"
+        },
+        "badges": [
+          "New"
+        ],
+        "descriptionSnippet": "Perlu atau tidak Prabowo hadir di acara reuni 212 pada 2 Desember 2025? #prabowo #presidenprabowo #212.",
+        "isLiveNow": false,
+        "lengthSeconds": 29,
+        "movingThumbnails": null,
+        "publishedTimeText": "7 hours ago",
+        "stats": {
+          "views": 1026
+        },
+        "thumbnails": [
+          {
+            "height": 202,
+            "url": "https://i.ytimg.com/vi/5Jdq87Kv5Q4/hq720_2.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBtgiAAoAPigIMCAAQARhJIFAoZTAP&rs=AOn4CLCuzNAqsPq7DH1vtgx48ep5zIi_rg",
+            "width": 360
+          },
+          {
+            "height": 404,
+            "url": "https://i.ytimg.com/vi/5Jdq87Kv5Q4/hq720_2.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBtgiAAoAPigIMCAAQARhJIFAoZTAP&rs=AOn4CLBKsTYPjBnu0UjTeKSnPGrpIdyysQ",
+            "width": 720
+          }
+        ],
+        "title": "Perlukah Prabowo Hadiri Reuni 212?",
+        "videoId": "5Jdq87Kv5Q4"
+      }
+    }
+  },
+  {
+    "_index": "social_media_posts",
+    "_id": "youtube_9KJ-uEO6Snk",
+    "_score": 1.0,
+    "_source": {
+      "platform": "youtube",
+      "platform_id": "9KJ-uEO6Snk",
+      "content": "setujukah orang2 ini jadi menterinya prabowo #politics #trending #shorts None",
+      "title": "setujukah orang2 ini jadi menterinya prabowo #politics #trending #shorts",
+      "description": null,
+      "author": {
+        "id": "UCLqegRJaszDqvwMMsqLJSew",
+        "title": "Anelka21",
+        "username": "anelka2175",
+        "profile_image_url": "https://yt3.ggpht.com/D-QT6usVj_3wjlImMqezVHVCyZ-wapszd6cfJsNpFYoF-TSUuU2u8aw2qFp_DNn9RVcA8Hx_=s68-c-k-c0x00ffffff-no-rj",
+        "badges": [],
+        "is_verified": false
+      },
+      "timestamp": "2025-11-24T11:17:13.667449",
+      "published_time_text": "10 hours ago",
+      "url": "https://www.youtube.com/watch?v=9KJ-uEO6Snk",
+      "metrics": {
+        "view_count": 11751,
+        "like_count": 0,
+        "comment_count": 0,
+        "share_count": 0
+      },
+      "duration_seconds": 8,
+      "duration_formatted": "00:08",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/9KJ-uEO6Snk/hq720_2.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBzgWAAoAKigIMCAAQARhlIFgoQDAP&rs=AOn4CLBxirmuJoicDHiL5z8x6XTBxYdVrA",
+          "width": 360,
+          "height": 202
+        },
+        {
+          "url": "https://i.ytimg.com/vi/9KJ-uEO6Snk/hq720_2.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBzgWAAoAKigIMCAAQARhlIFgoQDAP&rs=AOn4CLDbpslhxZt2xI90mFfLsW2d_GMCkA",
+          "width": 720,
+          "height": 404
+        }
+      ],
+      "moving_thumbnails": null,
+      "badges": [
+        "New"
+      ],
+      "is_live": false,
+      "hashtags": [],
+      "mentions": [],
+      "sentiment": "neutral",
+      "emotions": [],
+      "category": "news",
+      "language": "en",
+      "content_type": "video",
+      "analyzed_at": "2025-11-24T11:17:13.667467",
+      "raw_data": {
+        "author": {
+          "avatar": [
+            {
+              "height": 68,
+              "url": "https://yt3.ggpht.com/D-QT6usVj_3wjlImMqezVHVCyZ-wapszd6cfJsNpFYoF-TSUuU2u8aw2qFp_DNn9RVcA8Hx_=s68-c-k-c0x00ffffff-no-rj",
+              "width": 68
+            }
+          ],
+          "badges": [],
+          "canonicalBaseUrl": "/@anelka2175",
+          "channelId": "UCLqegRJaszDqvwMMsqLJSew",
+          "title": "Anelka21"
+        },
+        "badges": [
+          "New"
+        ],
+        "descriptionSnippet": null,
+        "isLiveNow": false,
+        "lengthSeconds": 8,
+        "movingThumbnails": null,
+        "publishedTimeText": "10 hours ago",
+        "stats": {
+          "views": 11751
+        },
+        "thumbnails": [
+          {
+            "height": 202,
+            "url": "https://i.ytimg.com/vi/9KJ-uEO6Snk/hq720_2.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBzgWAAoAKigIMCAAQARhlIFgoQDAP&rs=AOn4CLBxirmuJoicDHiL5z8x6XTBxYdVrA",
+            "width": 360
+          },
+          {
+            "height": 404,
+            "url": "https://i.ytimg.com/vi/9KJ-uEO6Snk/hq720_2.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBzgWAAoAKigIMCAAQARhlIFgoQDAP&rs=AOn4CLDbpslhxZt2xI90mFfLsW2d_GMCkA",
+            "width": 720
+          }
+        ],
+        "title": "setujukah orang2 ini jadi menterinya prabowo #politics #trending #shorts",
+        "videoId": "9KJ-uEO6Snk"
+      }
+    }
+  },
+  {
+    "_index": "social_media_posts",
+    "_id": "youtube_Sxj7rBtqrYE",
+    "_score": 1.0,
+    "_source": {
+      "platform": "youtube",
+      "platform_id": "Sxj7rBtqrYE",
+      "content": "Pesona dan kewibawaan Presiden Prabowo Subianto selalu menghadirkan semangat baru bagi bangsa. shots #shortsviral #2025 #shortvideo #PrabowoSubianto #PresidenIndonesia #PemimpinTegas #PemimpinBangsa ...",
+      "title": "Pesona dan kewibawaan Presiden Prabowo Subianto selalu menghadirkan semangat baru bagi bangsa.",
+      "description": "shots #shortsviral #2025 #shortvideo #PrabowoSubianto #PresidenIndonesia #PemimpinTegas #PemimpinBangsa ...",
+      "author": {
+        "id": "UCvC-e_jXtuqMgzMIjN2DX7A",
+        "title": "USMAN87channel",
+        "username": "usmn87channel",
+        "profile_image_url": "https://yt3.ggpht.com/2_2HMX3QjtInrKiooRxsXegYRtXn2Rvlm41ntHK7xaRAVVFns_rtUXtZrCqXRj_ZzD7YO1IRj0U=s68-c-k-c0x00ffffff-no-rj",
+        "badges": [],
+        "is_verified": false
+      },
+      "timestamp": "2025-11-24T11:17:13.667471",
+      "published_time_text": "17 hours ago",
+      "url": "https://www.youtube.com/watch?v=Sxj7rBtqrYE",
+      "metrics": {
+        "view_count": 39355,
+        "like_count": 0,
+        "comment_count": 0,
+        "share_count": 0
+      },
+      "duration_seconds": 9,
+      "duration_formatted": "00:09",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/Sxj7rBtqrYE/hq720_2.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBzgWAAoAKigIMCAAQARhVIE8oZTAP&rs=AOn4CLArlDyrbTOdNyFxX7kJu2a6rDSwxQ",
+          "width": 360,
+          "height": 202
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Sxj7rBtqrYE/hq720_2.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBzgWAAoAKigIMCAAQARhVIE8oZTAP&rs=AOn4CLB_EvCcLLe5fzFMEWm-2YuNx7J38A",
+          "width": 720,
+          "height": 404
+        }
+      ],
+      "moving_thumbnails": null,
+      "badges": [
+        "New"
+      ],
+      "is_live": false,
+      "hashtags": [
+        "shortsviral",
+        "2025",
+        "shortvideo",
+        "PrabowoSubianto",
+        "PresidenIndonesia",
+        "PemimpinTegas",
+        "PemimpinBangsa"
+      ],
+      "mentions": [],
+      "sentiment": "neutral",
+      "emotions": [],
+      "category": "general",
+      "language": "en",
+      "content_type": "video",
+      "analyzed_at": "2025-11-24T11:17:13.667508",
+      "raw_data": {
+        "author": {
+          "avatar": [
+            {
+              "height": 68,
+              "url": "https://yt3.ggpht.com/2_2HMX3QjtInrKiooRxsXegYRtXn2Rvlm41ntHK7xaRAVVFns_rtUXtZrCqXRj_ZzD7YO1IRj0U=s68-c-k-c0x00ffffff-no-rj",
+              "width": 68
+            }
+          ],
+          "badges": [],
+          "canonicalBaseUrl": "/@usmn87channel",
+          "channelId": "UCvC-e_jXtuqMgzMIjN2DX7A",
+          "title": "USMAN87channel"
+        },
+        "badges": [
+          "New"
+        ],
+        "descriptionSnippet": "shots #shortsviral #2025 #shortvideo #PrabowoSubianto #PresidenIndonesia #PemimpinTegas #PemimpinBangsa ...",
+        "isLiveNow": false,
+        "lengthSeconds": 9,
+        "movingThumbnails": null,
+        "publishedTimeText": "17 hours ago",
+        "stats": {
+          "views": 39355
+        },
+        "thumbnails": [
+          {
+            "height": 202,
+            "url": "https://i.ytimg.com/vi/Sxj7rBtqrYE/hq720_2.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBzgWAAoAKigIMCAAQARhVIE8oZTAP&rs=AOn4CLArlDyrbTOdNyFxX7kJu2a6rDSwxQ",
+            "width": 360
+          },
+          {
+            "height": 404,
+            "url": "https://i.ytimg.com/vi/Sxj7rBtqrYE/hq720_2.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBzgWAAoAKigIMCAAQARhVIE8oZTAP&rs=AOn4CLB_EvCcLLe5fzFMEWm-2YuNx7J38A",
+            "width": 720
+          }
+        ],
+        "title": "Pesona dan kewibawaan Presiden Prabowo Subianto selalu menghadirkan semangat baru bagi bangsa.",
+        "videoId": "Sxj7rBtqrYE"
+      }
+    }
+  },
+  {
+    "_index": "social_media_posts",
+    "_id": "youtube_Y9kBU94pp9A",
+    "_score": 1.0,
+    "_source": {
+      "platform": "youtube",
+      "platform_id": "Y9kBU94pp9A",
+      "content": "🟥Mahfud MD Ungkap Arahan Tegas Prabowo: “Percuma Bintang Empat!” #mahfudmd #prabowo  #shorts Info Terkini: Mahfud MD Ungkap Arahan Tegas Prabowo: “Percuma Bintang Empat Kalau Tak Bela Rakyat!” Mahfud MD ...",
+      "title": "🟥Mahfud MD Ungkap Arahan Tegas Prabowo: “Percuma Bintang Empat!” #mahfudmd #prabowo  #shorts",
+      "description": "Info Terkini: Mahfud MD Ungkap Arahan Tegas Prabowo: “Percuma Bintang Empat Kalau Tak Bela Rakyat!” Mahfud MD ...",
+      "author": {
+        "id": "UCyAafzlz41gGi6zqEuNjatg",
+        "title": "Jalur Sukses ID",
+        "username": "JalurSuksesID",
+        "profile_image_url": "https://yt3.ggpht.com/EU-RqeBldpJ2jTDG0sQoeZGa98TTO7HEgEQpnxghfq-AC41OGMmXTfNeSmwTckifdCeVBim4=s68-c-k-c0x00ffffff-no-rj",
+        "badges": [],
+        "is_verified": false
+      },
+      "timestamp": "2025-11-24T11:17:13.667512",
+      "published_time_text": "9 hours ago",
+      "url": "https://www.youtube.com/watch?v=Y9kBU94pp9A",
+      "metrics": {
+        "view_count": 6374,
+        "like_count": 0,
+        "comment_count": 0,
+        "share_count": 0
+      },
+      "duration_seconds": 10,
+      "duration_formatted": "00:10",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/Y9kBU94pp9A/hq720_2.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBzgWAAoAKigIMCAAQARhlIEgoPjAP&rs=AOn4CLBiT1Gh_WGuYQPGdtXjXap9nCROQw",
+          "width": 360,
+          "height": 202
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Y9kBU94pp9A/hq720_2.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBzgWAAoAKigIMCAAQARhlIEgoPjAP&rs=AOn4CLDMaPON3Zjk1KImWC1sM9AbrJU-ew",
+          "width": 720,
+          "height": 404
+        }
+      ],
+      "moving_thumbnails": null,
+      "badges": [
+        "New"
+      ],
+      "is_live": false,
+      "hashtags": [],
+      "mentions": [],
+      "sentiment": "neutral",
+      "emotions": [],
+      "category": "general",
+      "language": "en",
+      "content_type": "video",
+      "analyzed_at": "2025-11-24T11:17:13.667554",
+      "raw_data": {
+        "author": {
+          "avatar": [
+            {
+              "height": 68,
+              "url": "https://yt3.ggpht.com/EU-RqeBldpJ2jTDG0sQoeZGa98TTO7HEgEQpnxghfq-AC41OGMmXTfNeSmwTckifdCeVBim4=s68-c-k-c0x00ffffff-no-rj",
+              "width": 68
+            }
+          ],
+          "badges": [],
+          "canonicalBaseUrl": "/@JalurSuksesID",
+          "channelId": "UCyAafzlz41gGi6zqEuNjatg",
+          "title": "Jalur Sukses ID"
+        },
+        "badges": [
+          "New"
+        ],
+        "descriptionSnippet": "Info Terkini: Mahfud MD Ungkap Arahan Tegas Prabowo: “Percuma Bintang Empat Kalau Tak Bela Rakyat!” Mahfud MD ...",
+        "isLiveNow": false,
+        "lengthSeconds": 10,
+        "movingThumbnails": null,
+        "publishedTimeText": "9 hours ago",
+        "stats": {
+          "views": 6374
+        },
+        "thumbnails": [
+          {
+            "height": 202,
+            "url": "https://i.ytimg.com/vi/Y9kBU94pp9A/hq720_2.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBzgWAAoAKigIMCAAQARhlIEgoPjAP&rs=AOn4CLBiT1Gh_WGuYQPGdtXjXap9nCROQw",
+            "width": 360
+          },
+          {
+            "height": 404,
+            "url": "https://i.ytimg.com/vi/Y9kBU94pp9A/hq720_2.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBzgWAAoAKigIMCAAQARhlIEgoPjAP&rs=AOn4CLDMaPON3Zjk1KImWC1sM9AbrJU-ew",
+            "width": 720
+          }
+        ],
+        "title": "🟥Mahfud MD Ungkap Arahan Tegas Prabowo: “Percuma Bintang Empat!” #mahfudmd #prabowo  #shorts",
+        "videoId": "Y9kBU94pp9A"
+      }
+    }
+  },
+  {
+    "_index": "social_media_posts",
+    "_id": "youtube_KnJ-kyOKB4c",
+    "_score": 1.0,
+    "_source": {
+      "platform": "youtube",
+      "platform_id": "KnJ-kyOKB4c",
+      "content": "Pendapat Negara lain tentang pak Prabowo part 3 #countryballs #shorts video ini cuma hiburan aja ya remix:@Sazancountryballs credits elevenblas oi countryballs sticker capcut.",
+      "title": "Pendapat Negara lain tentang pak Prabowo part 3 #countryballs #shorts",
+      "description": "video ini cuma hiburan aja ya remix:@Sazancountryballs credits elevenblas oi countryballs sticker capcut.",
+      "author": {
+        "id": "UCmi5LQWusDtelT05G8LjRuA",
+        "title": "Alfian visual ",
+        "username": "Alfianvisuals",
+        "profile_image_url": "https://yt3.ggpht.com/Gxwf4fTd1CiEzdbMl3dfzgjVy1toLJbaLIaKbGjpe1--fcCRckZsh29GDRi1PV9mxAnpi1MtBgs=s68-c-k-c0x00ffffff-no-rj",
+        "badges": [],
+        "is_verified": false
+      },
+      "timestamp": "2025-11-24T11:17:13.667558",
+      "published_time_text": "20 hours ago",
+      "url": "https://www.youtube.com/watch?v=KnJ-kyOKB4c",
+      "metrics": {
+        "view_count": 31313,
+        "like_count": 0,
+        "comment_count": 0,
+        "share_count": 0
+      },
+      "duration_seconds": 41,
+      "duration_formatted": "00:41",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/KnJ-kyOKB4c/hq720_2.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBzgWAAoAKigIMCAAQARg6IGUoDzAP&rs=AOn4CLCTVa_HeYNwvZtaebmW-1t0_6dnWw",
+          "width": 360,
+          "height": 202
+        },
+        {
+          "url": "https://i.ytimg.com/vi/KnJ-kyOKB4c/hq720_2.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBzgWAAoAKigIMCAAQARg6IGUoDzAP&rs=AOn4CLAb4JJlt0AuxwbrBNjCTfkg4aYwOw",
+          "width": 720,
+          "height": 404
+        }
+      ],
+      "moving_thumbnails": [
+        {
+          "height": 180,
+          "url": "https://i.ytimg.com/an_webp/KnJ-kyOKB4c/mqdefault_6s.webp?du=3000&sqp=CIDXjckG&rs=AOn4CLA959d6bkzm0tOna36pyd4HsnW2tA",
+          "width": 320
+        }
+      ],
+      "badges": [
+        "New"
+      ],
+      "is_live": false,
+      "hashtags": [],
+      "mentions": [
+        "Sazancountryballs"
+      ],
+      "sentiment": "neutral",
+      "emotions": [],
+      "category": "general",
+      "language": "en",
+      "content_type": "video",
+      "analyzed_at": "2025-11-24T11:17:13.667591",
+      "raw_data": {
+        "author": {
+          "avatar": [
+            {
+              "height": 68,
+              "url": "https://yt3.ggpht.com/Gxwf4fTd1CiEzdbMl3dfzgjVy1toLJbaLIaKbGjpe1--fcCRckZsh29GDRi1PV9mxAnpi1MtBgs=s68-c-k-c0x00ffffff-no-rj",
+              "width": 68
+            }
+          ],
+          "badges": [],
+          "canonicalBaseUrl": "/@Alfianvisuals",
+          "channelId": "UCmi5LQWusDtelT05G8LjRuA",
+          "title": "Alfian visual "
+        },
+        "badges": [
+          "New"
+        ],
+        "descriptionSnippet": "video ini cuma hiburan aja ya remix:@Sazancountryballs credits elevenblas oi countryballs sticker capcut.",
+        "isLiveNow": false,
+        "lengthSeconds": 41,
+        "movingThumbnails": [
+          {
+            "height": 180,
+            "url": "https://i.ytimg.com/an_webp/KnJ-kyOKB4c/mqdefault_6s.webp?du=3000&sqp=CIDXjckG&rs=AOn4CLA959d6bkzm0tOna36pyd4HsnW2tA",
+            "width": 320
+          }
+        ],
+        "publishedTimeText": "20 hours ago",
+        "stats": {
+          "views": 31313
+        },
+        "thumbnails": [
+          {
+            "height": 202,
+            "url": "https://i.ytimg.com/vi/KnJ-kyOKB4c/hq720_2.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBzgWAAoAKigIMCAAQARg6IGUoDzAP&rs=AOn4CLCTVa_HeYNwvZtaebmW-1t0_6dnWw",
+            "width": 360
+          },
+          {
+            "height": 404,
+            "url": "https://i.ytimg.com/vi/KnJ-kyOKB4c/hq720_2.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBzgWAAoAKigIMCAAQARg6IGUoDzAP&rs=AOn4CLAb4JJlt0AuxwbrBNjCTfkg4aYwOw",
+            "width": 720
+          }
+        ],
+        "title": "Pendapat Negara lain tentang pak Prabowo part 3 #countryballs #shorts",
+        "videoId": "KnJ-kyOKB4c"
+      }
+    }
+  },
+  {
+    "_index": "social_media_posts",
+    "_id": "youtube_LjYN3IPfUfY",
+    "_score": 1.0,
+    "_source": {
+      "platform": "youtube",
+      "platform_id": "LjYN3IPfUfY",
+      "content": "CEK FAKTA: PRESIDEN PRABOWO CARI PENGGANTI WAPRES GIBRAN? prabowo #gibran #wapresgibran #kabinetmerahputih #presidenprabowo.",
+      "title": "CEK FAKTA: PRESIDEN PRABOWO CARI PENGGANTI WAPRES GIBRAN?",
+      "description": "prabowo #gibran #wapresgibran #kabinetmerahputih #presidenprabowo.",
+      "author": {
+        "id": "UCR-SnLdVOvO0sISfyTLuZCQ",
+        "title": "LOLNESIA news ",
+        "username": "LOLNESIAnews",
+        "profile_image_url": "https://yt3.ggpht.com/2PflPqLdZPyUspjWHS51NHX_6-6Dbgq2RDXFuLleYS0hghYT-cmJKoyQkfsYHW8YAFYXKtUN=s68-c-k-c0x00ffffff-no-rj",
+        "badges": [],
+        "is_verified": false
+      },
+      "timestamp": "2025-11-24T11:17:13.667595",
+      "published_time_text": "15 hours ago",
+      "url": "https://www.youtube.com/watch?v=LjYN3IPfUfY",
+      "metrics": {
+        "view_count": 10035,
+        "like_count": 0,
+        "comment_count": 0,
+        "share_count": 0
+      },
+      "duration_seconds": 7,
+      "duration_formatted": "00:07",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/LjYN3IPfUfY/hq720_2.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBzgWAAoAKigIMCAAQARh_IBMoEzAP&rs=AOn4CLCjHBFmmzeIK1nsxqklyHiTfyG3HA",
+          "width": 360,
+          "height": 202
+        },
+        {
+          "url": "https://i.ytimg.com/vi/LjYN3IPfUfY/hq720_2.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBzgWAAoAKigIMCAAQARh_IBMoEzAP&rs=AOn4CLDPzi89HLPSmLoGIVw6XYMW04JJWA",
+          "width": 720,
+          "height": 404
+        }
+      ],
+      "moving_thumbnails": null,
+      "badges": [
+        "New"
+      ],
+      "is_live": false,
+      "hashtags": [
+        "gibran",
+        "wapresgibran",
+        "kabinetmerahputih",
+        "presidenprabowo"
+      ],
+      "mentions": [],
+      "sentiment": "neutral",
+      "emotions": [],
+      "category": "general",
+      "language": "en",
+      "content_type": "video",
+      "analyzed_at": "2025-11-24T11:17:13.667624",
+      "raw_data": {
+        "author": {
+          "avatar": [
+            {
+              "height": 68,
+              "url": "https://yt3.ggpht.com/2PflPqLdZPyUspjWHS51NHX_6-6Dbgq2RDXFuLleYS0hghYT-cmJKoyQkfsYHW8YAFYXKtUN=s68-c-k-c0x00ffffff-no-rj",
+              "width": 68
+            }
+          ],
+          "badges": [],
+          "canonicalBaseUrl": "/@LOLNESIAnews",
+          "channelId": "UCR-SnLdVOvO0sISfyTLuZCQ",
+          "title": "LOLNESIA news "
+        },
+        "badges": [
+          "New"
+        ],
+        "descriptionSnippet": "prabowo #gibran #wapresgibran #kabinetmerahputih #presidenprabowo.",
+        "isLiveNow": false,
+        "lengthSeconds": 7,
+        "movingThumbnails": null,
+        "publishedTimeText": "15 hours ago",
+        "stats": {
+          "views": 10035
+        },
+        "thumbnails": [
+          {
+            "height": 202,
+            "url": "https://i.ytimg.com/vi/LjYN3IPfUfY/hq720_2.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBzgWAAoAKigIMCAAQARh_IBMoEzAP&rs=AOn4CLCjHBFmmzeIK1nsxqklyHiTfyG3HA",
+            "width": 360
+          },
+          {
+            "height": 404,
+            "url": "https://i.ytimg.com/vi/LjYN3IPfUfY/hq720_2.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBzgWAAoAKigIMCAAQARh_IBMoEzAP&rs=AOn4CLDPzi89HLPSmLoGIVw6XYMW04JJWA",
+            "width": 720
+          }
+        ],
+        "title": "CEK FAKTA: PRESIDEN PRABOWO CARI PENGGANTI WAPRES GIBRAN?",
+        "videoId": "LjYN3IPfUfY"
+      }
+    }
+  },
+  {
+    "_index": "social_media_posts",
+    "_id": "youtube_ttqm7ZIDT6s",
+    "_score": 1.0,
+    "_source": {
+      "platform": "youtube",
+      "platform_id": "ttqm7ZIDT6s",
+      "content": "PRABOWO MARAH BESAR! Banyak Negara Dukung KKB, Sumber Persenjataan 0PM Berhasil Digagalkan TNI-POLRI Situasi keamanan Papua kembali memanas setelah TNI–Polri melancarkan operasi besar untuk membongkar jaringan ...",
+      "title": "PRABOWO MARAH BESAR! Banyak Negara Dukung KKB, Sumber Persenjataan 0PM Berhasil Digagalkan TNI-POLRI",
+      "description": "Situasi keamanan Papua kembali memanas setelah TNI–Polri melancarkan operasi besar untuk membongkar jaringan ...",
+      "author": {
+        "id": "UCEslv9la-4NQww81Ba8k5Wg",
+        "title": "Auto Populer ID",
+        "username": "autopopuler.official",
+        "profile_image_url": "https://yt3.ggpht.com/dnXOpvlkKrwXW3mX8y1l-VDH-qcjqpI0VDSzLUWZJWWJ741Myme7dRarnVavrgZ2_X4ZxLuJbA=s68-c-k-c0x00ffffff-no-rj",
+        "badges": [],
+        "is_verified": false
+      },
+      "timestamp": "2025-11-24T11:17:13.667630",
+      "published_time_text": "16 hours ago",
+      "url": "https://www.youtube.com/watch?v=ttqm7ZIDT6s",
+      "metrics": {
+        "view_count": 11777,
+        "like_count": 0,
+        "comment_count": 0,
+        "share_count": 0
+      },
+      "duration_seconds": 655,
+      "duration_formatted": "10:55",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/ttqm7ZIDT6s/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB6bPdAuYGReW_tzx8ZLguovzbcbg",
+          "width": 360,
+          "height": 202
+        },
+        {
+          "url": "https://i.ytimg.com/vi/ttqm7ZIDT6s/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBQl_6Ctg9utGKnav-zQilD4y5NpQ",
+          "width": 720,
+          "height": 404
+        }
+      ],
+      "moving_thumbnails": [
+        {
+          "height": 180,
+          "url": "https://i.ytimg.com/an_webp/ttqm7ZIDT6s/mqdefault_6s.webp?du=3000&sqp=COzTjckG&rs=AOn4CLBQyo7LNCWmmHRMREjcswlLVN5cNQ",
+          "width": 320
+        }
+      ],
+      "badges": [
+        "New"
+      ],
+      "is_live": false,
+      "hashtags": [],
+      "mentions": [],
+      "sentiment": "neutral",
+      "emotions": [],
+      "category": "general",
+      "language": "en",
+      "content_type": "video",
+      "analyzed_at": "2025-11-24T11:17:13.667673",
+      "raw_data": {
+        "author": {
+          "avatar": [
+            {
+              "height": 68,
+              "url": "https://yt3.ggpht.com/dnXOpvlkKrwXW3mX8y1l-VDH-qcjqpI0VDSzLUWZJWWJ741Myme7dRarnVavrgZ2_X4ZxLuJbA=s68-c-k-c0x00ffffff-no-rj",
+              "width": 68
+            }
+          ],
+          "badges": [],
+          "canonicalBaseUrl": "/@autopopuler.official",
+          "channelId": "UCEslv9la-4NQww81Ba8k5Wg",
+          "title": "Auto Populer ID"
+        },
+        "badges": [
+          "New"
+        ],
+        "descriptionSnippet": "Situasi keamanan Papua kembali memanas setelah TNI–Polri melancarkan operasi besar untuk membongkar jaringan ...",
+        "isLiveNow": false,
+        "lengthSeconds": 655,
+        "movingThumbnails": [
+          {
+            "height": 180,
+            "url": "https://i.ytimg.com/an_webp/ttqm7ZIDT6s/mqdefault_6s.webp?du=3000&sqp=COzTjckG&rs=AOn4CLBQyo7LNCWmmHRMREjcswlLVN5cNQ",
+            "width": 320
+          }
+        ],
+        "publishedTimeText": "16 hours ago",
+        "stats": {
+          "views": 11777
+        },
+        "thumbnails": [
+          {
+            "height": 202,
+            "url": "https://i.ytimg.com/vi/ttqm7ZIDT6s/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB6bPdAuYGReW_tzx8ZLguovzbcbg",
+            "width": 360
+          },
+          {
+            "height": 404,
+            "url": "https://i.ytimg.com/vi/ttqm7ZIDT6s/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBQl_6Ctg9utGKnav-zQilD4y5NpQ",
+            "width": 720
+          }
+        ],
+        "title": "PRABOWO MARAH BESAR! Banyak Negara Dukung KKB, Sumber Persenjataan 0PM Berhasil Digagalkan TNI-POLRI",
+        "videoId": "ttqm7ZIDT6s"
+      }
+    }
+  }
+]

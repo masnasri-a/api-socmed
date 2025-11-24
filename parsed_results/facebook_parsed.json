@@ -1,0 +1,218 @@
+[
+  {
+    "_index": "social_media_posts",
+    "_id": "facebook_879672627736861",
+    "_score": 1.0,
+    "_source": {
+      "platform": "facebook",
+      "platform_id": "879672627736861",
+      "content": "🔳🔳🔳\nYng sedang aktif balles \"𝗛𝗔𝗗𝗜𝗥\" rezeqii datangg✨️",
+      "content_rich": "🔳🔳🔳\nYng sedang aktif balles \"𝗛𝗔𝗗𝗜𝗥\" rezeqii datangg✨️",
+      "author": {
+        "id": "61580411474340",
+        "name": "Nayla",
+        "url": "https://www.facebook.com/people/Nayla/61580411474340/",
+        "profile_image_url": "https://scontent.fisu10-2.fna.fbcdn.net/v/t39.30808-1/546879643_122142490436662975_1261330236230152211_n.jpg?stp=c0.20.612.612a_cp0_dst-jpg_s48x48_tt6&_nc_cat=107&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=H2mHieyypKoQ7kNvwGWFzg9&_nc_oc=Adml-GL7ahIWbYJL1w7YDlEpKJSbheXtMDExQNMS3SNzjfFujJDrbhoDoYlM78iErhw&_nc_zt=24&_nc_ht=scontent.fisu10-2.fna&_nc_gid=JYu_bFeZYLUmUrWq3mZj9w&oh=00_Afjb69um47-pUi_MkMyOoP0-drhEzb9cMhbdVXsBaF-ymw&oe=69294262"
+      },
+      "timestamp": "2025-11-23T19:56:53",
+      "created_timestamp": 1763902613,
+      "url": "https://www.facebook.com/groups/444695141234614/posts/879672627736861/",
+      "metrics": {
+        "reactions_count": 74,
+        "comments_count": 117,
+        "shares_count": 0,
+        "like_count": 71,
+        "love_count": 2,
+        "wow_count": 1,
+        "haha_count": 0,
+        "sad_count": 0,
+        "angry_count": 0,
+        "care_count": 0
+      },
+      "reaction_breakdown": {
+        "angry_percentage": 0.0,
+        "care_percentage": 0.0,
+        "haha_percentage": 0.0,
+        "like_percentage": 95.95,
+        "love_percentage": 2.7,
+        "sad_percentage": 0.0,
+        "wow_percentage": 1.35
+      },
+      "total_engagements": 191,
+      "hashtags": [],
+      "mentions": [],
+      "external_urls": [],
+      "media_info": {
+        "image": {
+          "url": "https://scontent.fisu10-2.fna.fbcdn.net/v/t39.30808-6/586561728_122114582487013715_4689567437979428685_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=zqZQofyiCMgQ7kNvwHO2Lcc&_nc_oc=AdmnmpArNwIcoo9kZFx8YDXdUYak6P-LAKVxjicnRU1xiv-FZHwhuD9WN2eLp_gAbZg&_nc_zt=23&_nc_ht=scontent.fisu10-2.fna&_nc_gid=JYu_bFeZYLUmUrWq3mZj9w&oh=00_AfhfvdMy4VRdSmXJ-kfCQz3SUhff2-T10dNmaQN-UWKTgQ&oe=69294610",
+          "width": 720,
+          "height": 875,
+          "id": "122114582481013715"
+        }
+      },
+      "post_type": "image",
+      "sentiment": "neutral",
+      "emotions": [],
+      "language": "mixed",
+      "metadata": {
+        "author_title": null,
+        "comments_id": "879672627736861",
+        "shares_id": "879672627736861",
+        "text_format_metadata": null
+      },
+      "analyzed_at": "2025-11-24T11:17:13.664122",
+      "raw_data": {
+        "post_id": "879672627736861",
+        "type": "post",
+        "url": "https://www.facebook.com/groups/444695141234614/posts/879672627736861/",
+        "message": "🔳🔳🔳\nYng sedang aktif balles \"𝗛𝗔𝗗𝗜𝗥\" rezeqii datangg✨️",
+        "message_rich": "🔳🔳🔳\nYng sedang aktif balles \"𝗛𝗔𝗗𝗜𝗥\" rezeqii datangg✨️",
+        "timestamp": 1763902613,
+        "comments_count": 117,
+        "reactions_count": 74,
+        "reshare_count": 0,
+        "reactions": {
+          "angry": 0,
+          "care": 0,
+          "haha": 0,
+          "like": 71,
+          "love": 2,
+          "sad": 0,
+          "wow": 1
+        },
+        "author": {
+          "id": "61580411474340",
+          "name": "Nayla",
+          "url": "https://www.facebook.com/people/Nayla/61580411474340/",
+          "profile_picture_url": "https://scontent.fisu10-2.fna.fbcdn.net/v/t39.30808-1/546879643_122142490436662975_1261330236230152211_n.jpg?stp=c0.20.612.612a_cp0_dst-jpg_s48x48_tt6&_nc_cat=107&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=H2mHieyypKoQ7kNvwGWFzg9&_nc_oc=Adml-GL7ahIWbYJL1w7YDlEpKJSbheXtMDExQNMS3SNzjfFujJDrbhoDoYlM78iErhw&_nc_zt=24&_nc_ht=scontent.fisu10-2.fna&_nc_gid=JYu_bFeZYLUmUrWq3mZj9w&oh=00_Afjb69um47-pUi_MkMyOoP0-drhEzb9cMhbdVXsBaF-ymw&oe=69294262"
+        },
+        "author_title": null,
+        "image": {
+          "uri": "https://scontent.fisu10-2.fna.fbcdn.net/v/t39.30808-6/586561728_122114582487013715_4689567437979428685_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=zqZQofyiCMgQ7kNvwHO2Lcc&_nc_oc=AdmnmpArNwIcoo9kZFx8YDXdUYak6P-LAKVxjicnRU1xiv-FZHwhuD9WN2eLp_gAbZg&_nc_zt=23&_nc_ht=scontent.fisu10-2.fna&_nc_gid=JYu_bFeZYLUmUrWq3mZj9w&oh=00_AfhfvdMy4VRdSmXJ-kfCQz3SUhff2-T10dNmaQN-UWKTgQ&oe=69294610",
+          "height": 875,
+          "width": 720,
+          "id": "122114582481013715"
+        },
+        "video": null,
+        "album_preview": null,
+        "video_files": null,
+        "video_thumbnail": null,
+        "external_url": null,
+        "attached_event": null,
+        "attached_post": null,
+        "attached_post_url": null,
+        "text_format_metadata": null,
+        "comments_id": "879672627736861",
+        "shares_id": "879672627736861"
+      }
+    }
+  },
+  {
+    "_index": "social_media_posts",
+    "_id": "facebook_820649977437316",
+    "_score": 1.0,
+    "_source": {
+      "platform": "facebook",
+      "platform_id": "820649977437316",
+      "content": "Sehat sllu pak presidenku Prabowo Subianto ♥️♥️♥️",
+      "content_rich": "Sehat sllu pak presidenku Prabowo Subianto ♥️♥️♥️",
+      "author": {
+        "id": "100042677162980",
+        "name": "Robby Robet",
+        "url": "https://www.facebook.com/robby.robet.712",
+        "profile_image_url": "https://scontent.fisu10-2.fna.fbcdn.net/v/t39.30808-1/577165337_1534131238019434_7731287779003988018_n.jpg?stp=cp0_dst-jpg_s48x48_tt6&_nc_cat=110&ccb=1-7&_nc_sid=1d2534&_nc_ohc=axoiZIvt--UQ7kNvwGbNWUP&_nc_oc=AdmZ-sKF74mP60sqGwZDN52idtgY3K_jwDCMtD7m51bYvCiCpTw0k_gaeXoTDDLxvfU&_nc_zt=24&_nc_ht=scontent.fisu10-2.fna&_nc_gid=JYu_bFeZYLUmUrWq3mZj9w&oh=00_AfgUljvkVk_PUyNDrcCSZc5cheEDOtDvXIaklrnRZBbegw&oe=69294ED9"
+      },
+      "timestamp": "2025-10-15T13:35:22",
+      "created_timestamp": 1760510122,
+      "url": "https://www.facebook.com/groups/189540950548225/posts/820649977437316/",
+      "metrics": {
+        "reactions_count": 102,
+        "comments_count": 35,
+        "shares_count": 1,
+        "like_count": 92,
+        "love_count": 10,
+        "wow_count": 0,
+        "haha_count": 0,
+        "sad_count": 0,
+        "angry_count": 0,
+        "care_count": 0
+      },
+      "reaction_breakdown": {
+        "angry_percentage": 0.0,
+        "care_percentage": 0.0,
+        "haha_percentage": 0.0,
+        "like_percentage": 90.2,
+        "love_percentage": 9.8,
+        "sad_percentage": 0.0,
+        "wow_percentage": 0.0
+      },
+      "total_engagements": 138,
+      "hashtags": [],
+      "mentions": [],
+      "external_urls": [],
+      "media_info": {
+        "image": {
+          "url": "https://scontent.fisu10-2.fna.fbcdn.net/v/t39.30808-6/561094652_1516182599814298_9106186977293769993_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=gJFKYq_F7mwQ7kNvwHBBSS2&_nc_oc=AdkOGRL6C4cXBv0RCooQ_22VnyzJIl-8mEpPFS9ECrdFr7N6UBs8pipagqEXCZn6Rws&_nc_zt=23&_nc_ht=scontent.fisu10-2.fna&_nc_gid=JYu_bFeZYLUmUrWq3mZj9w&oh=00_AfhnKeWKLITkwPhU0ntQTOKW1l-Ko7K3s94gWyeCyVI1Og&oe=692953E8",
+          "width": 648,
+          "height": 768,
+          "id": "1516182596480965"
+        }
+      },
+      "post_type": "image",
+      "sentiment": "neutral",
+      "emotions": [],
+      "language": "mixed",
+      "metadata": {
+        "author_title": null,
+        "comments_id": "820649977437316",
+        "shares_id": "820649977437316",
+        "text_format_metadata": null
+      },
+      "analyzed_at": "2025-11-24T11:17:13.664153",
+      "raw_data": {
+        "post_id": "820649977437316",
+        "type": "post",
+        "url": "https://www.facebook.com/groups/189540950548225/posts/820649977437316/",
+        "message": "Sehat sllu pak presidenku Prabowo Subianto ♥️♥️♥️",
+        "message_rich": "Sehat sllu pak presidenku Prabowo Subianto ♥️♥️♥️",
+        "timestamp": 1760510122,
+        "comments_count": 35,
+        "reactions_count": 102,
+        "reshare_count": 1,
+        "reactions": {
+          "angry": 0,
+          "care": 0,
+          "haha": 0,
+          "like": 92,
+          "love": 10,
+          "sad": 0,
+          "wow": 0
+        },
+        "author": {
+          "id": "100042677162980",
+          "name": "Robby Robet",
+          "url": "https://www.facebook.com/robby.robet.712",
+          "profile_picture_url": "https://scontent.fisu10-2.fna.fbcdn.net/v/t39.30808-1/577165337_1534131238019434_7731287779003988018_n.jpg?stp=cp0_dst-jpg_s48x48_tt6&_nc_cat=110&ccb=1-7&_nc_sid=1d2534&_nc_ohc=axoiZIvt--UQ7kNvwGbNWUP&_nc_oc=AdmZ-sKF74mP60sqGwZDN52idtgY3K_jwDCMtD7m51bYvCiCpTw0k_gaeXoTDDLxvfU&_nc_zt=24&_nc_ht=scontent.fisu10-2.fna&_nc_gid=JYu_bFeZYLUmUrWq3mZj9w&oh=00_AfgUljvkVk_PUyNDrcCSZc5cheEDOtDvXIaklrnRZBbegw&oe=69294ED9"
+        },
+        "author_title": null,
+        "image": {
+          "uri": "https://scontent.fisu10-2.fna.fbcdn.net/v/t39.30808-6/561094652_1516182599814298_9106186977293769993_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=gJFKYq_F7mwQ7kNvwHBBSS2&_nc_oc=AdkOGRL6C4cXBv0RCooQ_22VnyzJIl-8mEpPFS9ECrdFr7N6UBs8pipagqEXCZn6Rws&_nc_zt=23&_nc_ht=scontent.fisu10-2.fna&_nc_gid=JYu_bFeZYLUmUrWq3mZj9w&oh=00_AfhnKeWKLITkwPhU0ntQTOKW1l-Ko7K3s94gWyeCyVI1Og&oe=692953E8",
+          "height": 768,
+          "width": 648,
+          "id": "1516182596480965"
+        },
+        "video": null,
+        "album_preview": null,
+        "video_files": null,
+        "video_thumbnail": null,
+        "external_url": null,
+        "attached_event": null,
+        "attached_post": null,
+        "attached_post_url": null,
+        "text_format_metadata": null,
+        "comments_id": "820649977437316",
+        "shares_id": "820649977437316"
+      }
+    }
+  }
+]

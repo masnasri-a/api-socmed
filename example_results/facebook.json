@@ -1,0 +1,98 @@
+{
+  "status": "success",
+  "message": "Facebook search results retrieved",
+  "data": {
+    "results": [
+      {
+        "post_id": "879672627736861",
+        "type": "post",
+        "url": "https://www.facebook.com/groups/444695141234614/posts/879672627736861/",
+        "message": "🔳🔳🔳\nYng sedang aktif balles \"𝗛𝗔𝗗𝗜𝗥\" rezeqii datangg✨️",
+        "message_rich": "🔳🔳🔳\nYng sedang aktif balles \"𝗛𝗔𝗗𝗜𝗥\" rezeqii datangg✨️",
+        "timestamp": 1763902613,
+        "comments_count": 117,
+        "reactions_count": 74,
+        "reshare_count": 0,
+        "reactions": {
+          "angry": 0,
+          "care": 0,
+          "haha": 0,
+          "like": 71,
+          "love": 2,
+          "sad": 0,
+          "wow": 1
+        },
+        "author": {
+          "id": "61580411474340",
+          "name": "Nayla",
+          "url": "https://www.facebook.com/people/Nayla/61580411474340/",
+          "profile_picture_url": "https://scontent.fisu10-2.fna.fbcdn.net/v/t39.30808-1/546879643_122142490436662975_1261330236230152211_n.jpg?stp=c0.20.612.612a_cp0_dst-jpg_s48x48_tt6&_nc_cat=107&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=H2mHieyypKoQ7kNvwGWFzg9&_nc_oc=Adml-GL7ahIWbYJL1w7YDlEpKJSbheXtMDExQNMS3SNzjfFujJDrbhoDoYlM78iErhw&_nc_zt=24&_nc_ht=scontent.fisu10-2.fna&_nc_gid=JYu_bFeZYLUmUrWq3mZj9w&oh=00_Afjb69um47-pUi_MkMyOoP0-drhEzb9cMhbdVXsBaF-ymw&oe=69294262"
+        },
+        "author_title": null,
+        "image": {
+          "uri": "https://scontent.fisu10-2.fna.fbcdn.net/v/t39.30808-6/586561728_122114582487013715_4689567437979428685_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=zqZQofyiCMgQ7kNvwHO2Lcc&_nc_oc=AdmnmpArNwIcoo9kZFx8YDXdUYak6P-LAKVxjicnRU1xiv-FZHwhuD9WN2eLp_gAbZg&_nc_zt=23&_nc_ht=scontent.fisu10-2.fna&_nc_gid=JYu_bFeZYLUmUrWq3mZj9w&oh=00_AfhfvdMy4VRdSmXJ-kfCQz3SUhff2-T10dNmaQN-UWKTgQ&oe=69294610",
+          "height": 875,
+          "width": 720,
+          "id": "122114582481013715"
+        },
+        "video": null,
+        "album_preview": null,
+        "video_files": null,
+        "video_thumbnail": null,
+        "external_url": null,
+        "attached_event": null,
+        "attached_post": null,
+        "attached_post_url": null,
+        "text_format_metadata": null,
+        "comments_id": "879672627736861",
+        "shares_id": "879672627736861"
+      },
+      {
+        "post_id": "820649977437316",
+        "type": "post",
+        "url": "https://www.facebook.com/groups/189540950548225/posts/820649977437316/",
+        "message": "Sehat sllu pak presidenku Prabowo Subianto ♥️♥️♥️",
+        "message_rich": "Sehat sllu pak presidenku Prabowo Subianto ♥️♥️♥️",
+        "timestamp": 1760510122,
+        "comments_count": 35,
+        "reactions_count": 102,
+        "reshare_count": 1,
+        "reactions": {
+          "angry": 0,
+          "care": 0,
+          "haha": 0,
+          "like": 92,
+          "love": 10,
+          "sad": 0,
+          "wow": 0
+        },
+        "author": {
+          "id": "100042677162980",
+          "name": "Robby Robet",
+          "url": "https://www.facebook.com/robby.robet.712",
+          "profile_picture_url": "https://scontent.fisu10-2.fna.fbcdn.net/v/t39.30808-1/577165337_1534131238019434_7731287779003988018_n.jpg?stp=cp0_dst-jpg_s48x48_tt6&_nc_cat=110&ccb=1-7&_nc_sid=1d2534&_nc_ohc=axoiZIvt--UQ7kNvwGbNWUP&_nc_oc=AdmZ-sKF74mP60sqGwZDN52idtgY3K_jwDCMtD7m51bYvCiCpTw0k_gaeXoTDDLxvfU&_nc_zt=24&_nc_ht=scontent.fisu10-2.fna&_nc_gid=JYu_bFeZYLUmUrWq3mZj9w&oh=00_AfgUljvkVk_PUyNDrcCSZc5cheEDOtDvXIaklrnRZBbegw&oe=69294ED9"
+        },
+        "author_title": null,
+        "image": {
+          "uri": "https://scontent.fisu10-2.fna.fbcdn.net/v/t39.30808-6/561094652_1516182599814298_9106186977293769993_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=gJFKYq_F7mwQ7kNvwHBBSS2&_nc_oc=AdkOGRL6C4cXBv0RCooQ_22VnyzJIl-8mEpPFS9ECrdFr7N6UBs8pipagqEXCZn6Rws&_nc_zt=23&_nc_ht=scontent.fisu10-2.fna&_nc_gid=JYu_bFeZYLUmUrWq3mZj9w&oh=00_AfhnKeWKLITkwPhU0ntQTOKW1l-Ko7K3s94gWyeCyVI1Og&oe=692953E8",
+          "height": 768,
+          "width": 648,
+          "id": "1516182596480965"
+        },
+        "video": null,
+        "album_preview": null,
+        "video_files": null,
+        "video_thumbnail": null,
+        "external_url": null,
+        "attached_event": null,
+        "attached_post": null,
+        "attached_post_url": null,
+        "text_format_metadata": null,
+        "comments_id": "820649977437316",
+        "shares_id": "820649977437316"
+      }
+    ],
+    "cursor": "AbrBCnq3N387HXBPTIbUzsj2ihG2MX-zog_FiYb-TmbibhYUzZtpz5KTOisXDZ7jAKAiRtysnHpejG_4Rocz7DdxQCjJZMczWMMrZ0oZnRU-XCqS6xMr4KKSF4wVMbu37tG-pr_F_901mSYZtEh7PahLLFqSlJYrSNEMd9JCpi0FJ1hb8Venq0pJw-XRhfUWEGZhPOwy-tLYv56CoPLKiNdx1bRDmR7sP2Ldn4K1EavDKxkhRP9aLytvmptQRzfIlbSzLNCvXwiSNQLmVXj_6Q0CqoG2zYOek58RyH_qr0A4pC6x06GhK9y2KoPiN6iaXm-2NGBkONwdZylkomavwRiDeTd-SHBDpvgu7APzFoUQZpCVpzv0mzZr8WG3tiY12KH8nPJ7XtzB1afN_8ryjvx6qckVI_pKiwynCvqryHOUxIkx7yrjlpKQgzri_1CvVfSUNKLod9VuE0GERwFQ0uIQYr2CN7GCyj9WiaxldI5qAKG_kSzGI5FV4MG4-1yPFDR_n28htIdgn6IwulJmjj_b_8FwhoyHRTkuKrUvqgHS-0mKeGJD8PBUen0j6I2WroXgVPsbC87NSgDLKK_OFT4YiUmFr1gf1qcc6dTjSiggOXCL0Gx1J73NNVZfa4gVlGnFjm2Ai1lPdlf8VbVquqQ6KVEnMHPBhG0flKm8aX2lvC5e2drzsls62_VdJvRiBhctTIEXLZdnjPuKbyRYSbPab7tJoc1jspLH8TnGIOK-SCm6x--ftghSl-0IjE7gNY6XlIpunU0cWVEe7Lx1A7OQp1mIbvHnSRlpVWFAm0TGYypg1dIyl1VsEKGtcAb-66rlxTx1ADG2NrbvkpOiYcgJe-DL3TIBSiTdWb3VKqBz8FY1Zl_MKQt9MZvRockMQo_Km_jlNPZdtkp-mPCGNIKZcAcrDA4j3FnVVeg7nWaavKvtKL4JsAQkI8hSGa8Bnm4JOU8o70a4N_VneaNmH0dgb-aeJDv8Zqt43iu3sOBrQVZupQd-UgbboUes_6NxR1wgAsSXTfAcW_jN2u1G0s9D2DFDtKyen5ljGVhQKjbWFtTVHAcoo1WvQYnexG-upxxeEMiTs8Jg20rFLlcTXAQpHnrJdf46HZ9gHjgK_AkQ689FgVtYS31X2bsIvoLNLO3S33x-SYzV2y_95UMkS2p6RovwWE-EFKtRdKg0SuQB2umvPg1m5PVCKOfCSVyjy4gHKPiZ5zXxryhKm_qJsToo62RJNsHq5x0Tv5UHxoUK3lxTDzS4slmebpBn8htEAFITWm2HuGwwcNGbH8CCch6KotmB2UwpOVZ7VsJwbDSau7SmtP1DZf7sb7ckODrjhUUqoUaIojhP5RWzhNukq4ZM61170BKzJKY-FRCKi4EszwZkeI3IRBnV1jUFK4ZGtZBbPDsNj_IOIlHg9W-qIjL7eQavUesk-AP57jAj32dmR7BpRpzDrQm6sYPK7jOdP4vOmB-x4dSrjXJKoLCWeJ8XlKULr-0aFoXFON_cihyGz-C3NZNWiPvrAISFrf78dDDe3Eui1ZKuIT8cmL5y2ReEEBxDjC5PYM2nVXIhcYLMr-wXFVMXAqy4n8q111Uy9GcOYbz-du6Egqh9Bd_fYZAAVma8SzTc175pcUPZbPlO82qXMisJEvxpxR9t8poj5EtOXN0U4RB8E2G3SDBPujkzOJBrvs-vpKTyYSE-4b16NULQEiM-1xcZ7aKyzVtLEy3e1P-kV9xW-JPdDF72_Nud5bnFPUbh__OK9CXor1sxkZq0fdZYRr4qcQJ-vv7aMBgfsaLu2A7munusLo3td18JB9SoPYV8gqEiaeioh5mqeA8liS35QOWeIUZN9EVrOV8tK6fbBk5MUzpEzq43NnmwtmNMGd1jRx_OFF155bY7XaR0_p6jEdZwODTlhSWnCVg"
+  },
+  "error": null
+}
