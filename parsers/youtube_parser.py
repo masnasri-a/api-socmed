@@ -75,9 +75,6 @@ def create_video_document(video: Dict[str, Any]) -> Dict[str, Any]:
         stats = video.get('stats', {})
         metrics = {
             'view_count': stats.get('views', 0),
-            'like_count': 0,  # Not available in this response format
-            'comment_count': 0,  # Not available in this response format
-            'share_count': 0  # Not available in this response format
         }
         
         # Extract video details
@@ -117,10 +114,6 @@ def create_video_document(video: Dict[str, Any]) -> Dict[str, Any]:
         
         # Build the document
         document = {
-            '_index': 'social_media_posts',
-            '_id': f"youtube_{video_id}",
-            '_score': 1.0,
-            '_source': {
                 'platform': 'youtube',
                 'platform_id': video_id,
                 'content': full_content,
@@ -147,7 +140,6 @@ def create_video_document(video: Dict[str, Any]) -> Dict[str, Any]:
                 'analyzed_at': datetime.now().isoformat(),
                 'raw_data': video
             }
-        }
         
         return document
         

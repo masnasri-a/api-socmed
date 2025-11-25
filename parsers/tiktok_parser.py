@@ -68,12 +68,14 @@ def create_video_document(video: Dict[str, Any]) -> Dict[str, Any]:
         
         # Extract author information
         author = video.get('author', {})
+        authorStats = video.get('authorStats', {})
+       
         user_info = {
             'id': author.get('id', ''),
             'username': author.get('uniqueId', ''),
             'display_name': author.get('nickname', ''),
-            'followers_count': author.get('followerCount', 0),
-            'following_count': author.get('followingCount', 0),
+            'followers_count': authorStats.get('followerCount', 0),
+            'following_count': authorStats.get('followingCount', 0),
             'verified': author.get('verified', False),
             'profile_image_url': author.get('avatarLarger', author.get('avatarMedium', '')),
             'signature': author.get('signature', ''),
@@ -87,7 +89,6 @@ def create_video_document(video: Dict[str, Any]) -> Dict[str, Any]:
             'like_count': stats.get('diggCount', 0),
             'comment_count': stats.get('commentCount', 0),
             'share_count': stats.get('shareCount', 0),
-            'download_count': stats.get('downloadCount', 0),
             'collect_count': stats.get('collectCount', 0)
         }
         
@@ -141,10 +142,6 @@ def create_video_document(video: Dict[str, Any]) -> Dict[str, Any]:
         
         # Build the document
         document = {
-            '_index': 'social_media_posts',
-            '_id': f"tiktok_{video_id}",
-            '_score': 1.0,
-            '_source': {
                 'platform': 'tiktok',
                 'platform_id': video_id,
                 'content': desc,
@@ -169,7 +166,6 @@ def create_video_document(video: Dict[str, Any]) -> Dict[str, Any]:
                 'comment_enabled': not video.get('commentDisabled', False),
                 'analyzed_at': datetime.now().isoformat(),
                 'raw_data': video
-            }
         }
         
         return document

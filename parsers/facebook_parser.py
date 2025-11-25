@@ -129,10 +129,6 @@ def create_post_document(post: Dict[str, Any]) -> Dict[str, Any]:
         
         # Build the document
         document = {
-            '_index': 'social_media_posts',
-            '_id': f"facebook_{post_id}",
-            '_score': 1.0,
-            '_source': {
                 'platform': 'facebook',
                 'platform_id': post_id,
                 'content': message,
@@ -155,7 +151,6 @@ def create_post_document(post: Dict[str, Any]) -> Dict[str, Any]:
                 'metadata': metadata,
                 'analyzed_at': datetime.now().isoformat(),
                 'raw_data': post
-            }
         }
         
         return document

@@ -1,12 +1,14 @@
+import json
+import traceback
 from fastapi import FastAPI, HTTPException, Depends
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.security import HTTPBearer, HTTPAuthorizationCredentials
 from pydantic import BaseModel, Field
 from typing import Optional, Dict, Any
-import asyncio
 import uvicorn
 import os
 from dotenv import load_dotenv
+from kafka import KafkaProducer
 
 from services import FacebookService, InstagramService, TwitterService, YoutubeService, TikTokService
 from parsers import parse_facebook_json, parse_instagram_json, parse_twitter_json, parse_youtube_json, parse_tiktok_json
@@ -33,6 +35,12 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
+
+producer = KafkaProducer(
+    bootstrap_servers=[os.getenv("KAFKA_BOOTSTRAP_SERVERS")],
+    value_serializer=lambda v: json.dumps(v).encode('utf-8')
+)
+
 
 # Configuration
 API_KEY = os.getenv("RAPIDAPI_KEY")
@@ -79,14 +87,14 @@ youtube_service = YoutubeService(API_KEY)
 tiktok_service = TikTokService(API_KEY)
 
 # Dependency untuk validasi API key (optional)
-async def get_api_key(credentials: HTTPAuthorizationCredentials = Depends(security)):
+def get_api_key(credentials: HTTPAuthorizationCredentials = Depends(security)):
     if credentials:
         return credentials.credentials
     return None
 
 # Root endpoints
 @app.get("/")
-async def root():
+def root():
     """Root endpoint dengan informasi API"""
     return {
         "message": "Social Media API v2.0 with Integrated Parsers",
@@ -110,7 +118,7 @@ async def root():
     }
 
 @app.get("/health", response_model=APIResponse)
-async def health_check():
+def health_check():
     """Health check endpoint"""
     return APIResponse(
         status="success",
@@ -119,20 +127,17 @@ async def health_check():
     )
 
 @app.get("/facebook/search/{keyword}", response_model=APIResponse, tags=["Facebook"])
-async def get_facebook_page_get(keyword: str):
+def get_facebook_page_get(keyword: str):
     """Get Facebook search results via GET"""
     try:
-        result = await asyncio.get_event_loop().run_in_executor(
-            None, facebook_service.search_posts, keyword
-        )
-        
-        # Parse data menggunakan Facebook parser
-        parsed_documents = parse_facebook_json(result)
-        
+        result = facebook_service.search_posts(keyword)
+        parsed_documents = parse_facebook_json({"data": result})
+        print("parsed_documents : ",len(parsed_documents))
         # Tambahkan source_socmed ke setiap dokumen
         for doc in parsed_documents:
-            doc['_source']['source_socmed'] = 'facebook'
-        
+            producer.send('social_media_topic',doc)
+            print("data : ",doc.get('platform_id'))
+
         return APIResponse(
             status="success",
             message="Facebook search results retrieved and parsed",
@@ -143,20 +148,22 @@ async def get_facebook_page_get(keyword: str):
             }
         )
     except Exception as e:
+        traceback.print_exc()
         raise HTTPException(status_code=500, detail=str(e))
 
 @app.get("/instagram/search/{keyword}", response_model=APIResponse, tags=["Instagram"])
-async def get_instagram_user_get(keyword: str):
+def get_instagram_user_get(keyword: str):
     """Get Instagram search results via GET"""
     try:
-        result = await instagram_service.search(keyword)
+        result = instagram_service.search(keyword)
         
         # Parse data menggunakan Instagram parser
-        parsed_documents = parse_instagram_json(result)
+        parsed_documents = parse_instagram_json({"data": result})
         
         # Tambahkan source_socmed ke setiap dokumen
         for doc in parsed_documents:
-            doc['_source']['source_socmed'] = 'instagram'
+            producer.send('social_media_topic', doc)
+            print("data : ",doc.get('platform_id'))
         
         return APIResponse(
             status="success",
@@ -168,20 +175,23 @@ async def get_instagram_user_get(keyword: str):
             }
         )
     except Exception as e:
+        traceback.print_exc()
         raise HTTPException(status_code=500, detail=str(e))
 
 @app.get("/twitter/search/{keyword}", response_model=APIResponse, tags=["Twitter"])
-async def get_twitter_trending_get(keyword: str = 1):
+def get_twitter_trending_get(keyword: str = 1):
     """Get Twitter trending topics via GET"""
     try:
-        result = await twitter_service.search(keyword)
+        result = twitter_service.search(keyword)
         
         # Parse data menggunakan Twitter parser
-        parsed_documents = parse_twitter_json(result)
+        parsed_documents = parse_twitter_json({"data": result})
         
         # Tambahkan source_socmed ke setiap dokumen
         for doc in parsed_documents:
-            doc['_source']['source_socmed'] = 'twitter'
+            producer.send('social_media_topic', doc)
+            print("data : ",doc.get('platform_id'))
+
         
         return APIResponse(
             status="success",
@@ -196,17 +206,18 @@ async def get_twitter_trending_get(keyword: str = 1):
         raise HTTPException(status_code=500, detail=str(e))
 
 @app.get("/youtube/search/{keyword}", response_model=APIResponse, tags=["YouTube"])
-async def get_youtube_video_get(keyword: str):
+def get_youtube_video_get(keyword: str):
     """Get YouTube video details via GET"""
     try:
-        result = await youtube_service.search(keyword)
+        result = youtube_service.search(keyword)
         
         # Parse data menggunakan YouTube parser
-        parsed_documents = parse_youtube_json(result)
+        parsed_documents = parse_youtube_json({"data": result})
         
         # Tambahkan source_socmed ke setiap dokumen
         for doc in parsed_documents:
-            doc['_source']['source_socmed'] = 'youtube'
+            producer.send('social_media_topic', doc)
+            print("data : ",doc.get('platform_id'))
         
         return APIResponse(
             status="success",
@@ -218,20 +229,22 @@ async def get_youtube_video_get(keyword: str):
             }
         )
     except Exception as e:
+        traceback.print_exc()
         raise HTTPException(status_code=500, detail=str(e))
 
 @app.get("/tiktok/search/{keyword}", response_model=APIResponse, tags=["TikTok"])
-async def get_tiktok_trending(keyword: str):
+def get_tiktok_trending(keyword: str):
     """Get TikTok trending content"""
     try:
-        result = await tiktok_service.search_general(keyword)
+        result = tiktok_service.search_general(keyword)
         
         # Parse data menggunakan TikTok parser
-        parsed_documents = parse_tiktok_json(result)
+        parsed_documents = parse_tiktok_json({"data": result})
         
         # Tambahkan source_socmed ke setiap dokumen
         for doc in parsed_documents:
-            doc['_source']['source_socmed'] = 'tiktok'
+            producer.send('social_media_topic', doc)
+            print("data : ",doc.get('platform_id'))
         
         return APIResponse(
             status="success",
@@ -247,35 +260,33 @@ async def get_tiktok_trending(keyword: str):
 
 # Endpoint untuk mendapatkan data yang sudah diparsed saja
 @app.get("/parsed/{platform}/search/{keyword}", response_model=APIResponse, tags=["Parsed Data"])
-async def get_parsed_data(platform: str, keyword: str):
+def get_parsed_data(platform: str, keyword: str):
     """Get parsed social media data without raw data"""
     try:
         platform = platform.lower()
         
         if platform == "facebook":
-            result = await asyncio.get_event_loop().run_in_executor(
-                None, facebook_service.search_posts, keyword
-            )
+            result = facebook_service.search_posts(keyword)
             parsed_documents = parse_facebook_json(result)
             source_socmed = "facebook"
             
         elif platform == "instagram":
-            result = await instagram_service.search(keyword)
+            result = instagram_service.search(keyword)
             parsed_documents = parse_instagram_json(result)
             source_socmed = "instagram"
             
         elif platform == "twitter":
-            result = await twitter_service.search(keyword)
+            result = twitter_service.search(keyword)
             parsed_documents = parse_twitter_json(result)
             source_socmed = "twitter"
             
         elif platform == "youtube":
-            result = await youtube_service.search(keyword)
+            result = youtube_service.search(keyword)
             parsed_documents = parse_youtube_json(result)
             source_socmed = "youtube"
             
         elif platform == "tiktok":
-            result = await tiktok_service.search_general(keyword)
+            result = tiktok_service.search_general(keyword)
             parsed_documents = parse_tiktok_json(result)
             source_socmed = "tiktok"
             
@@ -302,7 +313,7 @@ async def get_parsed_data(platform: str, keyword: str):
 
 # Error handlers
 @app.exception_handler(404)
-async def not_found_handler(request, exc):
+def not_found_handler(request, exc):
     from fastapi.responses import JSONResponse
     return JSONResponse(
         status_code=404,
@@ -314,7 +325,7 @@ async def not_found_handler(request, exc):
     )
 
 @app.exception_handler(500)
-async def internal_error_handler(request, exc):
+def internal_error_handler(request, exc):
     from fastapi.responses import JSONResponse
     return JSONResponse(
         status_code=500,

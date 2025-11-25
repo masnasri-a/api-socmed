@@ -66,15 +66,15 @@ def extract_tweets_from_timeline(data: Dict[str, Any]) -> List[Dict[str, Any]]:
                                 tweet = tweet_results.get('result', {})
                                 if tweet:
                                     tweets.append(tweet)
-                            elif item_content.get('itemType') == 'TimelineUser':
-                                # Extract user data for user-focused analytics
-                                user_results = item_content.get('user_results', {})
-                                user = user_results.get('result', {})
-                                if user:
-                                    # Create a pseudo-tweet for user data
-                                    user_doc = create_user_document(user)
-                                    if user_doc:
-                                        tweets.append(user_doc)
+                            # elif item_content.get('itemType') == 'TimelineUser':
+                            #     # Extract user data for user-focused analytics
+                            #     user_results = item_content.get('user_results', {})
+                            #     user = user_results.get('result', {})
+                            #     if user:
+                            #         # Create a pseudo-tweet for user data
+                            #         user_doc = create_user_document(user)
+                            #         if user_doc:
+                            #             tweets.append(user_doc)
     except Exception as e:
         print(f"Error extracting tweets: {e}")
     
@@ -90,6 +90,7 @@ def create_tweet_document(tweet: Dict[str, Any]) -> Dict[str, Any]:
         user_results = core.get('user_results', {})
         user = user_results.get('result', {})
         user_legacy = user.get('legacy', {})
+        cores = user.get('core', {})
         
         # Extract text content
         full_text = legacy.get('full_text', '')
@@ -119,8 +120,8 @@ def create_tweet_document(tweet: Dict[str, Any]) -> Dict[str, Any]:
         # Extract user information
         user_info = {
             'id': user.get('rest_id', ''),
-            'username': user_legacy.get('screen_name', ''),
-            'display_name': user_legacy.get('name', ''),
+            'username': cores.get('screen_name', '') or user_legacy.get('screen_name', ''),
+            'display_name': cores.get('name', '') or user_legacy.get('name', ''),
             'followers_count': user_legacy.get('followers_count', 0),
             'friends_count': user_legacy.get('friends_count', 0),
             'verified': user.get('verification', {}).get('verified', False),
@@ -151,10 +152,6 @@ def create_tweet_document(tweet: Dict[str, Any]) -> Dict[str, Any]:
         
         # Build the document
         document = {
-            '_index': 'social_media_posts',
-            '_id': f"twitter_{tweet.get('rest_id', '')}",
-            '_score': 1.0,
-            '_source': {
                 'platform': 'twitter',
                 'platform_id': tweet.get('rest_id', ''),
                 'content': full_text,
@@ -172,13 +169,14 @@ def create_tweet_document(tweet: Dict[str, Any]) -> Dict[str, Any]:
                 'is_retweet': legacy.get('retweeted', False),
                 'is_quote': legacy.get('is_quote_status', False),
                 'conversation_id': legacy.get('conversation_id_str', ''),
-                'source': legacy.get('source', ''),
+                'source': "twitter",
                 'possibly_sensitive': legacy.get('possibly_sensitive', False),
                 'geo': extract_geo_data(tweet),
                 'analyzed_at': datetime.now().isoformat(),
                 'raw_data': tweet  # Keep original for debugging
             }
-        }
+        if not tweet.get('rest_id', ''):
+            return None
         
         return document
         
@@ -192,7 +190,9 @@ def create_user_document(user: Dict[str, Any]) -> Dict[str, Any]:
     try:
         legacy = user.get('legacy', {})
         core = user.get('core', {})
-        
+        user_results = core.get('user_results', {}).get('core', {})
+        # print(core)
+        # exit()
         document = {
             '_index': 'social_media_users',
             '_id': f"twitter_user_{user.get('rest_id', '')}",
@@ -203,8 +203,8 @@ def create_user_document(user: Dict[str, Any]) -> Dict[str, Any]:
                 'content': f"User profile: {legacy.get('name', '')} (@{legacy.get('screen_name', '')})",
                 'author': {
                     'id': user.get('rest_id', ''),
-                    'username': legacy.get('screen_name', ''),
-                    'display_name': legacy.get('name', ''),
+                    'username': core.get('screen_name') if 'screen_name' in core else user_results.get('screen_name', ''),
+                    'display_name':  core.get('name') if 'name' in core else user_results.get('name', ''),
                     'followers_count': legacy.get('followers_count', 0),
                     'friends_count': legacy.get('friends_count', 0),
                     'verified': user.get('verification', {}).get('verified', False),
@@ -230,6 +230,8 @@ def create_user_document(user: Dict[str, Any]) -> Dict[str, Any]:
                 'raw_data': user
             }
         }
+        print(document)
+        exit()
         
         return document
         

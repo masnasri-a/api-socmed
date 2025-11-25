@@ -113,9 +113,8 @@ def create_media_document(media: Dict[str, Any]) -> Dict[str, Any]:
             'like_count': media.get('like_count', 0),
             'comment_count': media.get('comment_count', 0),
             'play_count': media.get('play_count', 0),
-            'view_count': media.get('view_count', 0),
-            'save_count': media.get('save_count', 0),
-            'share_count': media.get('share_count', 0)
+            'repost_count': media.get('media_repost_count', 0),
+            'share_count': media.get('reshare_count', 0)
         }
         
         # Extract media type and URLs
@@ -148,10 +147,6 @@ def create_media_document(media: Dict[str, Any]) -> Dict[str, Any]:
         
         # Build the document
         document = {
-            '_index': 'social_media_posts',
-            '_id': f"instagram_{media_id}",
-            '_score': 1.0,
-            '_source': {
                 'platform': 'instagram',
                 'platform_id': str(media_id),
                 'content': caption,
@@ -175,7 +170,6 @@ def create_media_document(media: Dict[str, Any]) -> Dict[str, Any]:
                 'lat': media.get('lat'),
                 'analyzed_at': datetime.now().isoformat(),
                 'raw_data': media
-            }
         }
         
         return document

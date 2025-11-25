@@ -1,21 +1,19 @@
 {
-  "generated_at": "2025-11-24T11:17:13.736264",
-  "total_documents": 75,
+  "generated_at": "2025-11-25T10:02:44.890559",
+  "total_documents": 65,
   "platforms": {
     "twitter": {
-      "document_count": 28,
+      "document_count": 18,
       "sentiment_breakdown": {
         "positive": 0,
         "negative": 0,
-        "neutral": 28
+        "neutral": 18
       },
       "language_breakdown": {
-        "": 10,
-        "in": 17,
-        "en": 1
+        "unknown": 18
       },
-      "total_engagement": 19046,
-      "avg_engagement": 680.21
+      "total_engagement": 0,
+      "avg_engagement": 0.0
     },
     "instagram": {
       "document_count": 4,
@@ -27,23 +25,21 @@
       "language_breakdown": {
         "unknown": 4
       },
-      "total_engagement": 443025,
-      "avg_engagement": 110756.25
+      "total_engagement": 0,
+      "avg_engagement": 0.0
     },
     "tiktok": {
       "document_count": 12,
       "sentiment_breakdown": {
         "positive": 0,
-        "negative": 2,
-        "neutral": 10
+        "negative": 0,
+        "neutral": 12
       },
       "language_breakdown": {
-        "en": 7,
-        "id": 3,
-        "mixed": 2
+        "unknown": 12
       },
-      "total_engagement": 336599,
-      "avg_engagement": 28049.92
+      "total_engagement": 0,
+      "avg_engagement": 0.0
     },
     "facebook": {
       "document_count": 2,
@@ -53,10 +49,10 @@
         "neutral": 2
       },
       "language_breakdown": {
-        "mixed": 2
+        "unknown": 2
       },
-      "total_engagement": 328,
-      "avg_engagement": 164.0
+      "total_engagement": 0,
+      "avg_engagement": 0.0
     },
     "youtube": {
       "document_count": 29,
@@ -66,17 +62,15 @@
         "neutral": 29
       },
       "language_breakdown": {
-        "en": 27,
-        "mixed": 1,
-        "id": 1
+        "unknown": 29
       },
-      "total_engagement": 1036032,
-      "avg_engagement": 35725.24
+      "total_engagement": 0,
+      "avg_engagement": 0.0
     }
   },
   "summary": {
     "most_active_platform": "youtube",
-    "total_engagement": 1835030,
+    "total_engagement": 0,
     "platforms_processed": 5
   }
 }
